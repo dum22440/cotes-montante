@@ -1,0 +1,29 @@
+name: Export des cotes
+
+on:
+  schedule:
+    - cron: "45 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Recuperer les cotes
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python export_cotes.py
+      - name: Publier cotes.json
+        run: |
+          git config user.name "bot-cotes"
+          git config user.email "bot-cotes@users.noreply.github.com"
+          git add cotes.json
+          git commit -m "Cotes du jour" || echo "Rien de nouveau"
+          git push

@@ -2,7 +2,8 @@ name: Fetch cotes (OddsPapi)
 
 on:
   schedule:
-    - cron: "30 21 * * *"   # tous les jours à 23h30 heure de Paris (avant le brief de 00h01)
+    - cron: "45 7,16 * * *"   # 7h45 et 16h45
+      timezone: "Europe/Paris"
   workflow_dispatch:         # bouton "Run workflow" pour lancer à la main
 
 permissions:

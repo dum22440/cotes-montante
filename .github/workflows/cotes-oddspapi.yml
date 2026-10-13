@@ -1,0 +1,31 @@
+name: Cotes du jour (OddsPapi)
+
+on:
+  schedule:
+    - cron: "0 6 * * *"     # tous les jours à 6h UTC (8h l'été, 7h l'hiver à Paris)
+  workflow_dispatch:         # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+jobs:
+  cotes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Récupérer les cotes
+        env:
+          ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
+          ODDSPAPI_DEBUG: "1"
+        run: python recup_cotes.py
+      - name: Enregistrer dans le dépôt
+        run: |
+          git config user.name "cotes-bot"
+          git config user.email "cotes-bot@users.noreply.github.com"
+          git add cotes
+          git diff --cached --quiet || git commit -m "Cotes du $(date -u +%F)"
+          git pull --rebase && git push

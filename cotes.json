@@ -1,1180 +1,34 @@
 {
- "mis_a_jour_utc": "2026-10-15T10:17:42Z",
+ "mis_a_jour_utc": "2026-10-16T10:05:53Z",
  "horizon_heures": 36,
- "requetes_restantes_ce_mois": "397",
+ "requetes_restantes_ce_mois": "384",
  "erreurs": [],
  "matchs": [
   {
    "competition": "WTA Wuhan Open",
-   "match": "Ashlyn Krueger vs Iga Swiatek",
-   "debut_utc": "2026-10-15T11:00:00Z",
+   "match": "Ann Li vs Iga Swiatek",
+   "debut_utc": "2026-10-16T11:00:00Z",
    "cotes": {
     "Unibet": {
-     "Ashlyn Krueger": 7.1,
-     "Iga Swiatek": 1.05
+     "Ann Li": 4.5,
+     "Iga Swiatek": 1.15
     },
     "Betclic": {
-     "Ashlyn Krueger": 7.6,
-     "Iga Swiatek": 1.08
+     "Ann Li": 4.4,
+     "Iga Swiatek": 1.21
+    },
+    "Pinnacle": {
+     "Ann Li": 4.6,
+     "Iga Swiatek": 1.24
     },
     "Winamax": {
-     "Ashlyn Krueger": 7.75,
-     "Iga Swiatek": 1.07
-    },
-    "Pinnacle": {
-     "Ashlyn Krueger": 9.14,
-     "Iga Swiatek": 1.08
+     "Ann Li": 4.3,
+     "Iga Swiatek": 1.2
     }
    },
    "proba_pinnacle_pct": {
-    "Ashlyn Krueger": 10.6,
-    "Iga Swiatek": 89.4
-   }
-  },
-  {
-   "competition": "WTA Wuhan Open",
-   "match": "Ann Li vs Janice Tjen",
-   "debut_utc": "2026-10-15T12:10:00Z",
-   "cotes": {
-    "Betclic": {
-     "Ann Li": 1.46,
-     "Janice Tjen": 2.63
-    },
-    "Unibet": {
-     "Ann Li": 1.45,
-     "Janice Tjen": 2.5
-    },
-    "Winamax": {
-     "Ann Li": 1.44,
-     "Janice Tjen": 2.6
-    },
-    "Pinnacle": {
-     "Ann Li": 1.52,
-     "Janice Tjen": 2.74
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Ann Li": 64.3,
-    "Janice Tjen": 35.7
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Salzburg vs AC Milan",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "AC Milan": 1.97,
-     "Salzburg": 3.74,
-     "Draw": 3.85
-    },
-    "Unibet": {
-     "AC Milan": 1.9,
-     "Salzburg": 3.3,
-     "Draw": 3.5
-    },
-    "Winamax": {
-     "AC Milan": 1.86,
-     "Salzburg": 3.5,
-     "Draw": 3.6
-    },
-    "Betclic": {
-     "AC Milan": 1.91,
-     "Salzburg": 3.25,
-     "Draw": 3.47
-    }
-   },
-   "proba_pinnacle_pct": {
-    "AC Milan": 49.1,
-    "Salzburg": 25.8,
-    "Draw": 25.1
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "AZ Alkmaar vs Hapoel Be'er Sheva",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "AZ Alkmaar": 1.36,
-     "Hapoel Be'er Sheva": 8.08,
-     "Draw": 5.61
-    },
-    "Unibet": {
-     "AZ Alkmaar": 1.25,
-     "Hapoel Be'er Sheva": 7.4,
-     "Draw": 5.4
-    },
-    "Winamax": {
-     "AZ Alkmaar": 1.29,
-     "Hapoel Be'er Sheva": 7.0,
-     "Draw": 5.5
-    },
-    "Betclic": {
-     "AZ Alkmaar": 1.31,
-     "Hapoel Be'er Sheva": 6.75,
-     "Draw": 4.85
-    }
-   },
-   "proba_pinnacle_pct": {
-    "AZ Alkmaar": 70.9,
-    "Hapoel Be'er Sheva": 11.9,
-    "Draw": 17.2
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Lech Poznań vs Bayer Leverkusen",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Bayer Leverkusen": 1.61,
-     "Lech Poznań": 4.95,
-     "Draw": 4.69
-    },
-    "Unibet": {
-     "Bayer Leverkusen": 1.5,
-     "Lech Poznań": 4.6,
-     "Draw": 4.3
-    },
-    "Winamax": {
-     "Bayer Leverkusen": 1.54,
-     "Lech Poznań": 4.5,
-     "Draw": 4.5
-    },
-    "Betclic": {
-     "Bayer Leverkusen": 1.55,
-     "Lech Poznań": 4.7,
-     "Draw": 4.4
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Bayer Leverkusen": 59.9,
-    "Lech Poznań": 19.5,
-    "Draw": 20.6
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Lyon vs Crystal Palace",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Crystal Palace": 2.91,
-     "Lyon": 2.39,
-     "Draw": 3.68
-    },
-    "Unibet": {
-     "Crystal Palace": 2.9,
-     "Lyon": 2.15,
-     "Draw": 3.7
-    },
-    "Winamax": {
-     "Crystal Palace": 2.75,
-     "Lyon": 2.2,
-     "Draw": 3.6
-    },
-    "Betclic": {
-     "Crystal Palace": 2.9,
-     "Lyon": 2.18,
-     "Draw": 3.6
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Crystal Palace": 33.2,
-    "Lyon": 40.5,
-    "Draw": 26.3
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Sparta Prague vs Lillestrom",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Lillestrom": 8.37,
-     "Sparta Prague": 1.35,
-     "Draw": 5.58
-    },
-    "Unibet": {
-     "Lillestrom": 7.0,
-     "Sparta Prague": 1.28,
-     "Draw": 5.1
-    },
-    "Winamax": {
-     "Lillestrom": 6.75,
-     "Sparta Prague": 1.31,
-     "Draw": 5.4
-    },
-    "Betclic": {
-     "Lillestrom": 6.6,
-     "Sparta Prague": 1.31,
-     "Draw": 4.85
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Lillestrom": 11.5,
-    "Sparta Prague": 71.3,
-    "Draw": 17.2
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "NK Celje vs Omonoia FC",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "NK Celje": 2.84,
-     "Omonoia FC": 2.57,
-     "Draw": 3.43
-    },
-    "Unibet": {
-     "NK Celje": 2.6,
-     "Omonoia FC": 2.3,
-     "Draw": 3.3
-    },
-    "Betclic": {
-     "NK Celje": 2.6,
-     "Omonoia FC": 2.33,
-     "Draw": 3.25
-    },
-    "Winamax": {
-     "NK Celje": 2.55,
-     "Omonoia FC": 2.4,
-     "Draw": 3.35
-    }
-   },
-   "proba_pinnacle_pct": {
-    "NK Celje": 34.1,
-    "Omonoia FC": 37.7,
-    "Draw": 28.2
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Union Saint-Gilloise vs Real Sociedad",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Real Sociedad": 2.63,
-     "Union Saint-Gilloise": 2.57,
-     "Draw": 3.79
-    },
-    "Unibet": {
-     "Real Sociedad": 2.45,
-     "Union Saint-Gilloise": 2.4,
-     "Draw": 3.3
-    },
-    "Winamax": {
-     "Real Sociedad": 2.45,
-     "Union Saint-Gilloise": 2.45,
-     "Draw": 3.5
-    },
-    "Betclic": {
-     "Real Sociedad": 2.45,
-     "Union Saint-Gilloise": 2.45,
-     "Draw": 3.3
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Real Sociedad": 36.8,
-    "Union Saint-Gilloise": 37.7,
-    "Draw": 25.5
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Torreense vs Sunderland",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Sunderland": 1.33,
-     "Torreense": 9.13,
-     "Draw": 5.65
-    },
-    "Unibet": {
-     "Sunderland": 1.28,
-     "Torreense": 7.5,
-     "Draw": 4.9
-    },
-    "Winamax": {
-     "Sunderland": 1.3,
-     "Torreense": 7.25,
-     "Draw": 5.3
-    },
-    "Betclic": {
-     "Sunderland": 1.3,
-     "Torreense": 7.25,
-     "Draw": 4.75
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Sunderland": 72.4,
-    "Torreense": 10.5,
-    "Draw": 17.0
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Gent vs AGF Aarhus",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "AGF Aarhus": 4.7,
-     "Gent": 1.55,
-     "Draw": 3.83
-    },
-    "Pinnacle": {
-     "AGF Aarhus": 5.03,
-     "Gent": 1.64,
-     "Draw": 4.25
-    },
-    "Unibet": {
-     "AGF Aarhus": 4.6,
-     "Gent": 1.55,
-     "Draw": 3.7
-    }
-   },
-   "proba_pinnacle_pct": {
-    "AGF Aarhus": 19.0,
-    "Gent": 58.4,
-    "Draw": 22.5
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "PFC CSKA Sofia vs AS Monaco",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "AS Monaco": 1.48,
-     "PFC CSKA Sofia": 5.6,
-     "Draw": 4.35
-    },
-    "Unibet": {
-     "AS Monaco": 1.42,
-     "PFC CSKA Sofia": 5.4,
-     "Draw": 4.2
-    },
-    "Pinnacle": {
-     "AS Monaco": 1.51,
-     "PFC CSKA Sofia": 6.04,
-     "Draw": 4.64
-    }
-   },
-   "proba_pinnacle_pct": {
-    "AS Monaco": 63.5,
-    "PFC CSKA Sofia": 15.9,
-    "Draw": 20.7
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Hajduk Split vs Ajax",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "Ajax": 1.55,
-     "Hajduk Split": 4.4,
-     "Draw": 4.05
-    },
-    "Unibet": {
-     "Ajax": 1.55,
-     "Hajduk Split": 4.3,
-     "Draw": 4.0
-    },
-    "Pinnacle": {
-     "Ajax": 1.66,
-     "Hajduk Split": 4.77,
-     "Draw": 4.32
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Ajax": 57.7,
-    "Hajduk Split": 20.1,
-    "Draw": 22.2
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Riga FC vs FC Kairat",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "FC Kairat": 3.68,
-     "Riga FC": 1.87,
-     "Draw": 3.18
-    },
-    "Unibet": {
-     "FC Kairat": 3.8,
-     "Riga FC": 1.78,
-     "Draw": 3.3
-    },
-    "Pinnacle": {
-     "FC Kairat": 4.25,
-     "Riga FC": 1.93,
-     "Draw": 3.48
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Kairat": 22.6,
-    "Riga FC": 49.8,
-    "Draw": 27.6
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "FC Lugano vs Red Star Belgrade",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "FC Lugano": 2.2,
-     "Red Star Belgrade": 2.68,
-     "Draw": 3.42
-    },
-    "Unibet": {
-     "FC Lugano": 2.15,
-     "Red Star Belgrade": 2.7,
-     "Draw": 3.4
-    },
-    "Pinnacle": {
-     "FC Lugano": 2.44,
-     "Red Star Belgrade": 2.79,
-     "Draw": 3.71
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Lugano": 39.5,
-    "Red Star Belgrade": 34.5,
-    "Draw": 26.0
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "KF Egnatia vs FC Midtjylland",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "FC Midtjylland": 1.49,
-     "KF Egnatia": 5.25,
-     "Draw": 3.9
-    },
-    "Unibet": {
-     "FC Midtjylland": 1.43,
-     "KF Egnatia": 5.4,
-     "Draw": 4.1
-    },
-    "Pinnacle": {
-     "FC Midtjylland": 1.55,
-     "KF Egnatia": 6.13,
-     "Draw": 4.27
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Midtjylland": 61.9,
-    "KF Egnatia": 15.6,
-    "Draw": 22.5
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Panathinaikos FC vs FK Borac Banja Luka",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "FK Borac Banja Luka": 9.75,
-     "Panathinaikos FC": 1.2,
-     "Draw": 5.4
-    },
-    "Unibet": {
-     "FK Borac Banja Luka": 11.0,
-     "Panathinaikos FC": 1.14,
-     "Draw": 6.0
-    },
-    "Pinnacle": {
-     "FK Borac Banja Luka": 11.56,
-     "Panathinaikos FC": 1.23,
-     "Draw": 6.87
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FK Borac Banja Luka": 8.3,
-    "Panathinaikos FC": 77.8,
-    "Draw": 13.9
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Universitatea Craiova vs Getafe",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "Getafe": 2.27,
-     "Universitatea Craiova": 2.95,
-     "Draw": 2.95
-    },
-    "Pinnacle": {
-     "Getafe": 2.5,
-     "Universitatea Craiova": 3.2,
-     "Draw": 3.07
-    },
-    "Unibet": {
-     "Getafe": 2.2,
-     "Universitatea Craiova": 2.95,
-     "Draw": 2.95
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Getafe": 38.5,
-    "Universitatea Craiova": 30.1,
-    "Draw": 31.4
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Mjällby AIF vs Inter Club d'Escaldes",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "Inter Club d'Escaldes": 7.5,
-     "Mjällby AIF": 1.3,
-     "Draw": 4.65
-    },
-    "Unibet": {
-     "Inter Club d'Escaldes": 7.8,
-     "Mjällby AIF": 1.26,
-     "Draw": 4.8
-    },
-    "Pinnacle": {
-     "Inter Club d'Escaldes": 9.04,
-     "Mjällby AIF": 1.34,
-     "Draw": 5.27
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Inter Club d'Escaldes": 10.6,
-    "Mjällby AIF": 71.3,
-    "Draw": 18.1
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "KuPS Kuopio vs Trabzonspor",
-   "debut_utc": "2026-10-15T16:45:00Z",
-   "cotes": {
-    "Betclic": {
-     "KuPS Kuopio": 5.25,
-     "Trabzonspor": 1.46,
-     "Draw": 4.0
-    },
-    "Unibet": {
-     "KuPS Kuopio": 5.3,
-     "Trabzonspor": 1.44,
-     "Draw": 4.0
-    },
-    "Pinnacle": {
-     "KuPS Kuopio": 6.25,
-     "Trabzonspor": 1.5,
-     "Draw": 4.61
-    }
-   },
-   "proba_pinnacle_pct": {
-    "KuPS Kuopio": 15.3,
-    "Trabzonspor": 63.9,
-    "Draw": 20.8
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Dinamo Zagreb vs Anderlecht",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Anderlecht": 3.68,
-     "Dinamo Zagreb": 2.03,
-     "Draw": 3.72
-    },
-    "Betclic": {
-     "Anderlecht": 3.4,
-     "Dinamo Zagreb": 1.88,
-     "Draw": 3.4
-    },
-    "Winamax": {
-     "Anderlecht": 3.4,
-     "Dinamo Zagreb": 1.9,
-     "Draw": 3.6
-    },
-    "Unibet": {
-     "Anderlecht": 3.4,
-     "Dinamo Zagreb": 1.9,
-     "Draw": 3.4
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Anderlecht": 26.3,
-    "Dinamo Zagreb": 47.7,
-    "Draw": 26.0
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Benfica vs Celtic",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Benfica": 1.21,
-     "Celtic": 12.21,
-     "Draw": 7.72
-    },
-    "Betclic": {
-     "Benfica": 1.2,
-     "Celtic": 10.0,
-     "Draw": 6.5
-    },
-    "Winamax": {
-     "Benfica": 1.19,
-     "Celtic": 9.0,
-     "Draw": 6.75
-    },
-    "Unibet": {
-     "Benfica": 1.18,
-     "Celtic": 9.5,
-     "Draw": 6.0
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Benfica": 79.6,
-    "Celtic": 7.9,
-    "Draw": 12.5
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "TSG Hoffenheim vs Besiktas JK",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Besiktas JK": 3.1,
-     "TSG Hoffenheim": 1.88,
-     "Draw": 3.8
-    },
-    "Betclic": {
-     "Besiktas JK": 3.3,
-     "TSG Hoffenheim": 1.82,
-     "Draw": 3.73
-    },
-    "Winamax": {
-     "Besiktas JK": 3.35,
-     "TSG Hoffenheim": 1.86,
-     "Draw": 3.9
-    },
-    "Pinnacle": {
-     "Besiktas JK": 3.49,
-     "TSG Hoffenheim": 2.0,
-     "Draw": 4.02
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Besiktas JK": 27.7,
-    "TSG Hoffenheim": 48.3,
-    "Draw": 24.0
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Bournemouth vs SK Sturm Graz",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Winamax": {
-     "Bournemouth": 1.15,
-     "SK Sturm Graz": 11.0,
-     "Draw": 7.25
-    },
-    "Unibet": {
-     "Bournemouth": 1.12,
-     "SK Sturm Graz": 12.0,
-     "Draw": 7.0
-    },
-    "Betclic": {
-     "Bournemouth": 1.13,
-     "SK Sturm Graz": 11.25,
-     "Draw": 6.75
-    },
-    "Pinnacle": {
-     "Bournemouth": 1.19,
-     "SK Sturm Graz": 13.9,
-     "Draw": 7.91
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Bournemouth": 80.9,
-    "SK Sturm Graz": 6.9,
-    "Draw": 12.2
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Celta Vigo vs Juventus",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Winamax": {
-     "Celta Vigo": 3.3,
-     "Juventus": 2.1,
-     "Draw": 3.1
-    },
-    "Unibet": {
-     "Celta Vigo": 3.4,
-     "Juventus": 2.0,
-     "Draw": 3.1
-    },
-    "Betclic": {
-     "Celta Vigo": 3.35,
-     "Juventus": 2.05,
-     "Draw": 3.0
-    },
-    "Pinnacle": {
-     "Celta Vigo": 3.64,
-     "Juventus": 2.19,
-     "Draw": 3.31
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Celta Vigo": 26.6,
-    "Juventus": 44.2,
-    "Draw": 29.2
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "FC Ararat-Armenia": 6.6,
-     "Jagiellonia Białystok": 1.33,
-     "Draw": 4.6
-    },
-    "Betclic": {
-     "FC Ararat-Armenia": 6.25,
-     "Jagiellonia Białystok": 1.37,
-     "Draw": 4.35
-    },
-    "Winamax": {
-     "FC Ararat-Armenia": 6.25,
-     "Jagiellonia Białystok": 1.37,
-     "Draw": 4.8
-    },
-    "Pinnacle": {
-     "FC Ararat-Armenia": 7.36,
-     "Jagiellonia Białystok": 1.41,
-     "Draw": 5.12
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Ararat-Armenia": 13.1,
-    "Jagiellonia Białystok": 68.2,
-    "Draw": 18.8
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Ferencváros TC vs Viktoria Plzeň",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Winamax": {
-     "Ferencváros TC": 1.82,
-     "Viktoria Plzeň": 3.4,
-     "Draw": 3.9
-    },
-    "Unibet": {
-     "Ferencváros TC": 1.82,
-     "Viktoria Plzeň": 3.4,
-     "Draw": 3.6
-    },
-    "Betclic": {
-     "Ferencváros TC": 1.84,
-     "Viktoria Plzeň": 3.38,
-     "Draw": 3.55
-    },
-    "Pinnacle": {
-     "Ferencváros TC": 1.96,
-     "Viktoria Plzeň": 3.75,
-     "Draw": 3.87
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Ferencváros TC": 49.3,
-    "Viktoria Plzeň": 25.8,
-    "Draw": 25.0
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Marseille vs Olympiakos Piraeus",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Marseille": 2.37,
-     "Olympiakos Piraeus": 3.07,
-     "Draw": 3.51
-    },
-    "Unibet": {
-     "Marseille": 2.2,
-     "Olympiakos Piraeus": 2.8,
-     "Draw": 3.6
-    },
-    "Winamax": {
-     "Marseille": 2.25,
-     "Olympiakos Piraeus": 2.75,
-     "Draw": 3.45
-    },
-    "Betclic": {
-     "Marseille": 2.27,
-     "Olympiakos Piraeus": 2.8,
-     "Draw": 3.5
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Marseille": 40.9,
-    "Olympiakos Piraeus": 31.5,
-    "Draw": 27.6
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "NEC Nijmegen vs PFC Levski Sofia",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "NEC Nijmegen": 1.77,
-     "PFC Levski Sofia": 3.7,
-     "Draw": 3.5
-    },
-    "Betclic": {
-     "NEC Nijmegen": 1.78,
-     "PFC Levski Sofia": 3.68,
-     "Draw": 3.5
-    },
-    "Winamax": {
-     "NEC Nijmegen": 1.78,
-     "PFC Levski Sofia": 3.8,
-     "Draw": 3.7
-    },
-    "Pinnacle": {
-     "NEC Nijmegen": 1.91,
-     "PFC Levski Sofia": 4.05,
-     "Draw": 3.78
-    }
-   },
-   "proba_pinnacle_pct": {
-    "NEC Nijmegen": 50.6,
-    "PFC Levski Sofia": 23.9,
-    "Draw": 25.6
-   }
-  },
-  {
-   "competition": "Europa League",
-   "match": "Rennes vs OFI Crete",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Winamax": {
-     "OFI Crete": 9.5,
-     "Rennes": 1.18,
-     "Draw": 6.75
-    },
-    "Unibet": {
-     "OFI Crete": 9.5,
-     "Rennes": 1.18,
-     "Draw": 6.1
-    },
-    "Betclic": {
-     "OFI Crete": 10.0,
-     "Rennes": 1.19,
-     "Draw": 6.75
-    },
-    "Pinnacle": {
-     "OFI Crete": 12.59,
-     "Rennes": 1.21,
-     "Draw": 7.54
-    }
-   },
-   "proba_pinnacle_pct": {
-    "OFI Crete": 7.6,
-    "Rennes": 79.6,
-    "Draw": 12.8
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Atalanta BC vs Pafos FC",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "Atalanta BC": 1.28,
-     "Pafos FC": 7.5,
-     "Draw": 4.85
-    },
-    "Unibet": {
-     "Atalanta BC": 1.22,
-     "Pafos FC": 8.3,
-     "Draw": 5.3
-    },
-    "Pinnacle": {
-     "Atalanta BC": 1.34,
-     "Pafos FC": 9.18,
-     "Draw": 5.34
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Atalanta BC": 71.6,
-    "Pafos FC": 10.4,
-    "Draw": 18.0
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Brighton and Hove Albion vs FK Kauno Žalgiris",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "Brighton and Hove Albion": 1.01,
-     "FK Kauno Žalgiris": 27.0,
-     "Draw": 10.75
-    },
-    "Unibet": {
-     "Brighton and Hove Albion": 1.01,
-     "FK Kauno Žalgiris": 32.0,
-     "Draw": 9.0
-    }
-   },
-   "proba_pinnacle_pct": null
-  },
-  {
-   "competition": "Conference League",
-   "match": "FC Copenhagen vs SC Braga",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "FC Copenhagen": 2.25,
-     "SC Braga": 2.75,
-     "Draw": 3.1
-    },
-    "Pinnacle": {
-     "FC Copenhagen": 2.63,
-     "SC Braga": 2.93,
-     "Draw": 3.15
-    },
-    "Betclic": {
-     "FC Copenhagen": 2.32,
-     "SC Braga": 2.77,
-     "Draw": 3.05
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Copenhagen": 36.6,
-    "SC Braga": 32.8,
-    "Draw": 30.6
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Sint Truiden vs FC Iberia 1999",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "FC Iberia 1999": 9.5,
-     "Sint Truiden": 1.2,
-     "Draw": 5.6
-    },
-    "Pinnacle": {
-     "FC Iberia 1999": 11.89,
-     "Sint Truiden": 1.24,
-     "Draw": 6.54
-    },
-    "Unibet": {
-     "FC Iberia 1999": 9.0,
-     "Sint Truiden": 1.2,
-     "Draw": 5.4
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Iberia 1999": 8.1,
-    "Sint Truiden": 77.3,
-    "Draw": 14.7
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "Hearts vs FC Nordsjaelland",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "FC Nordsjaelland": 2.12,
-     "Hearts": 2.75,
-     "Draw": 3.5
-    },
-    "Unibet": {
-     "FC Nordsjaelland": 2.05,
-     "Hearts": 2.75,
-     "Draw": 3.5
-    },
-    "Pinnacle": {
-     "FC Nordsjaelland": 2.25,
-     "Hearts": 2.97,
-     "Draw": 3.86
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Nordsjaelland": 42.7,
-    "Hearts": 32.4,
-    "Draw": 24.9
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "FC Twente Enschede vs FC Thun",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "FC Thun": 9.0,
-     "FC Twente Enschede": 1.18,
-     "Draw": 6.25
-    },
-    "Unibet": {
-     "FC Thun": 8.8,
-     "FC Twente Enschede": 1.16,
-     "Draw": 6.5
-    },
-    "Pinnacle": {
-     "FC Thun": 12.02,
-     "FC Twente Enschede": 1.21,
-     "Draw": 7.68
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Thun": 8.0,
-    "FC Twente Enschede": 79.5,
-    "Draw": 12.5
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "SC Freiburg vs FK Jablonec",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "FK Jablonec": 10.0,
-     "SC Freiburg": 1.21,
-     "Draw": 6.25
-    },
-    "Unibet": {
-     "FK Jablonec": 10.0,
-     "SC Freiburg": 1.17,
-     "Draw": 5.5
-    },
-    "Pinnacle": {
-     "FK Jablonec": 12.21,
-     "SC Freiburg": 1.22,
-     "Draw": 6.74
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FK Jablonec": 7.8,
-    "SC Freiburg": 78.1,
-    "Draw": 14.1
-   }
-  },
-  {
-   "competition": "Conference League",
-   "match": "SK Brann vs Lincoln Red Imps FC",
-   "debut_utc": "2026-10-15T19:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Lincoln Red Imps FC": 14.0,
-     "SK Brann": 1.09,
-     "Draw": 7.3
-    },
-    "Pinnacle": {
-     "Lincoln Red Imps FC": 17.75,
-     "SK Brann": 1.14,
-     "Draw": 8.71
-    },
-    "Betclic": {
-     "Lincoln Red Imps FC": 13.75,
-     "SK Brann": 1.1,
-     "Draw": 7.25
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Lincoln Red Imps FC": 5.4,
-    "SK Brann": 83.7,
-    "Draw": 11.0
-   }
-  },
-  {
-   "competition": "WTA Wuhan Open",
-   "match": "Maja Chwalinska vs Maria Sakkari",
-   "debut_utc": "2026-10-16T04:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Maja Chwalinska": 2.1,
-     "Maria Sakkari": 1.57
-    },
-    "Betclic": {
-     "Maja Chwalinska": 2.12,
-     "Maria Sakkari": 1.59
-    },
-    "Winamax": {
-     "Maja Chwalinska": 2.1,
-     "Maria Sakkari": 1.58
-    }
-   },
-   "proba_pinnacle_pct": null
-  },
-  {
-   "competition": "ATP Shanghai Masters",
-   "match": "Rafael Jodar vs Casper Ruud",
-   "debut_utc": "2026-10-16T06:30:00Z",
-   "cotes": {
-    "Unibet": {
-     "Casper Ruud": 2.1,
-     "Rafael Jodar": 1.64
-    },
-    "Winamax": {
-     "Casper Ruud": 2.05,
-     "Rafael Jodar": 1.72
-    },
-    "Pinnacle": {
-     "Casper Ruud": 2.22,
-     "Rafael Jodar": 1.74
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Casper Ruud": 43.9,
-    "Rafael Jodar": 56.1
-   }
-  },
-  {
-   "competition": "ATP Shanghai Masters",
-   "match": "Daniil Medvedev vs Tommy Paul",
-   "debut_utc": "2026-10-16T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Daniil Medvedev": 1.42,
-     "Tommy Paul": 2.6
-    },
-    "Winamax": {
-     "Daniil Medvedev": 1.44,
-     "Tommy Paul": 2.7
-    },
-    "Pinnacle": {
-     "Daniil Medvedev": 1.47,
-     "Tommy Paul": 2.9
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Daniil Medvedev": 66.4,
-    "Tommy Paul": 33.6
+    "Ann Li": 21.2,
+    "Iga Swiatek": 78.8
    }
   },
   {
@@ -1183,30 +37,30 @@
    "debut_utc": "2026-10-16T17:00:00Z",
    "cotes": {
     "Unibet": {
-     "Çaykur Rizespor": 3.1,
-     "Çorum FK": 1.93,
-     "Draw": 3.4
+     "Çaykur Rizespor": 3.2,
+     "Çorum FK": 1.86,
+     "Draw": 3.55
     },
     "Betclic": {
-     "Çaykur Rizespor": 3.13,
-     "Çorum FK": 1.96,
-     "Draw": 3.45
+     "Çaykur Rizespor": 3.23,
+     "Çorum FK": 1.97,
+     "Draw": 3.55
     },
     "Winamax": {
-     "Çaykur Rizespor": 2.9,
-     "Çorum FK": 1.94,
-     "Draw": 3.35
+     "Çaykur Rizespor": 3.1,
+     "Çorum FK": 1.96,
+     "Draw": 3.55
     },
     "Pinnacle": {
-     "Çaykur Rizespor": 3.18,
-     "Çorum FK": 2.14,
-     "Draw": 3.73
+     "Çaykur Rizespor": 3.56,
+     "Çorum FK": 2.05,
+     "Draw": 3.77
     }
    },
    "proba_pinnacle_pct": {
-    "Çaykur Rizespor": 30.0,
-    "Çorum FK": 44.5,
-    "Draw": 25.5
+    "Çaykur Rizespor": 27.2,
+    "Çorum FK": 47.2,
+    "Draw": 25.7
    }
   },
   {
@@ -1215,30 +69,30 @@
    "debut_utc": "2026-10-16T18:00:00Z",
    "cotes": {
     "Winamax": {
-     "Excelsior": 4.2,
-     "Heerenveen": 1.58,
-     "Draw": 3.95
+     "Excelsior": 4.3,
+     "Heerenveen": 1.52,
+     "Draw": 4.4
     },
     "Unibet": {
-     "Excelsior": 4.3,
-     "Heerenveen": 1.54,
-     "Draw": 4.0
+     "Excelsior": 4.6,
+     "Heerenveen": 1.48,
+     "Draw": 4.3
     },
     "Betclic": {
-     "Excelsior": 4.3,
-     "Heerenveen": 1.56,
-     "Draw": 4.05
+     "Excelsior": 4.65,
+     "Heerenveen": 1.52,
+     "Draw": 4.4
     },
     "Pinnacle": {
-     "Excelsior": 4.85,
-     "Heerenveen": 1.66,
-     "Draw": 4.05
+     "Excelsior": 5.14,
+     "Heerenveen": 1.6,
+     "Draw": 4.6
     }
    },
    "proba_pinnacle_pct": {
-    "Excelsior": 19.5,
-    "Heerenveen": 57.1,
-    "Draw": 23.4
+    "Excelsior": 18.8,
+    "Heerenveen": 60.3,
+    "Draw": 21.0
    }
   },
   {
@@ -1247,30 +101,30 @@
    "debut_utc": "2026-10-16T18:30:00Z",
    "cotes": {
     "Pinnacle": {
-     "1. FC Köln": 3.49,
-     "Eintracht Frankfurt": 1.98,
-     "Draw": 4.1
+     "1. FC Köln": 3.84,
+     "Eintracht Frankfurt": 1.87,
+     "Draw": 4.28
     },
     "Unibet": {
-     "1. FC Köln": 3.2,
-     "Eintracht Frankfurt": 1.87,
-     "Draw": 3.9
+     "1. FC Köln": 3.7,
+     "Eintracht Frankfurt": 1.77,
+     "Draw": 4.1
     },
     "Winamax": {
-     "1. FC Köln": 3.1,
-     "Eintracht Frankfurt": 1.9,
-     "Draw": 4.0
+     "1. FC Köln": 3.4,
+     "Eintracht Frankfurt": 1.78,
+     "Draw": 4.1
     },
     "Betclic": {
-     "1. FC Köln": 3.28,
-     "Eintracht Frankfurt": 1.9,
-     "Draw": 4.0
+     "1. FC Köln": 3.6,
+     "Eintracht Frankfurt": 1.82,
+     "Draw": 4.1
     }
    },
    "proba_pinnacle_pct": {
-    "1. FC Köln": 27.7,
-    "Eintracht Frankfurt": 48.8,
-    "Draw": 23.6
+    "1. FC Köln": 25.3,
+    "Eintracht Frankfurt": 52.0,
+    "Draw": 22.7
    }
   },
   {
@@ -1279,30 +133,30 @@
    "debut_utc": "2026-10-16T18:45:00Z",
    "cotes": {
     "Pinnacle": {
-     "Le Mans FC": 3.04,
-     "Toulouse": 2.34,
-     "Draw": 3.61
+     "Le Mans FC": 3.08,
+     "Toulouse": 2.31,
+     "Draw": 3.69
     },
     "Betclic": {
-     "Le Mans FC": 2.82,
+     "Le Mans FC": 2.87,
      "Toulouse": 2.28,
-     "Draw": 3.48
+     "Draw": 3.55
     },
     "Unibet": {
-     "Le Mans FC": 2.7,
-     "Toulouse": 2.25,
-     "Draw": 3.4
+     "Le Mans FC": 2.85,
+     "Toulouse": 2.35,
+     "Draw": 3.3
     },
     "Winamax": {
-     "Le Mans FC": 2.8,
-     "Toulouse": 2.2,
+     "Le Mans FC": 2.85,
+     "Toulouse": 2.15,
      "Draw": 3.5
     }
    },
    "proba_pinnacle_pct": {
-    "Le Mans FC": 31.8,
-    "Toulouse": 41.4,
-    "Draw": 26.8
+    "Le Mans FC": 31.6,
+    "Toulouse": 42.1,
+    "Draw": 26.3
    }
   },
   {
@@ -1311,30 +165,30 @@
    "debut_utc": "2026-10-16T18:45:00Z",
    "cotes": {
     "Pinnacle": {
-     "Frosinone": 2.61,
-     "Sassuolo": 2.67,
-     "Draw": 3.63
+     "Frosinone": 2.37,
+     "Sassuolo": 2.9,
+     "Draw": 3.84
     },
     "Unibet": {
-     "Frosinone": 2.3,
-     "Sassuolo": 2.55,
-     "Draw": 3.7
+     "Frosinone": 2.2,
+     "Sassuolo": 2.65,
+     "Draw": 3.6
     },
     "Winamax": {
-     "Frosinone": 2.35,
-     "Sassuolo": 2.45,
-     "Draw": 3.7
+     "Frosinone": 2.25,
+     "Sassuolo": 2.6,
+     "Draw": 3.75
     },
     "Betclic": {
-     "Frosinone": 2.42,
-     "Sassuolo": 2.55,
-     "Draw": 3.65
+     "Frosinone": 2.3,
+     "Sassuolo": 2.72,
+     "Draw": 3.75
     }
    },
    "proba_pinnacle_pct": {
-    "Frosinone": 37.1,
-    "Sassuolo": 36.3,
-    "Draw": 26.7
+    "Frosinone": 41.1,
+    "Sassuolo": 33.6,
+    "Draw": 25.4
    }
   },
   {
@@ -1343,12 +197,12 @@
    "debut_utc": "2026-10-16T19:00:00Z",
    "cotes": {
     "Pinnacle": {
-     "Deportivo La Coruña": 2.09,
-     "Levante": 3.65,
-     "Draw": 3.54
+     "Deportivo La Coruña": 2.12,
+     "Levante": 3.62,
+     "Draw": 3.55
     },
     "Unibet": {
-     "Deportivo La Coruña": 2.0,
+     "Deportivo La Coruña": 1.98,
      "Levante": 3.3,
      "Draw": 3.3
     },
@@ -1359,14 +213,955 @@
     },
     "Betclic": {
      "Deportivo La Coruña": 2.05,
-     "Levante": 3.35,
+     "Levante": 3.47,
      "Draw": 3.38
     }
    },
    "proba_pinnacle_pct": {
-    "Deportivo La Coruña": 46.2,
-    "Levante": 26.5,
-    "Draw": 27.3
+    "Deportivo La Coruña": 45.8,
+    "Levante": 26.8,
+    "Draw": 27.4
+   }
+  },
+  {
+   "competition": "WTA Wuhan Open",
+   "match": "Sonay Kartal vs Jelena Ostapenko",
+   "debut_utc": "2026-10-17T07:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Jelena Ostapenko": 1.98,
+     "Sonay Kartal": 1.62
+    },
+    "Betclic": {
+     "Jelena Ostapenko": 2.02,
+     "Sonay Kartal": 1.65
+    },
+    "Winamax": {
+     "Jelena Ostapenko": 2.0,
+     "Sonay Kartal": 1.64
+    },
+    "Pinnacle": {
+     "Jelena Ostapenko": 2.15,
+     "Sonay Kartal": 1.77
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Jelena Ostapenko": 45.2,
+    "Sonay Kartal": 54.8
+   }
+  },
+  {
+   "competition": "ATP Shanghai Masters",
+   "match": "Alexander Zverev vs Alejandro Davidovich Fokina",
+   "debut_utc": "2026-10-17T08:30:00Z",
+   "cotes": {
+    "Unibet": {
+     "Alejandro Davidovich Fokina": 3.55,
+     "Alexander Zverev": 1.22
+    },
+    "Winamax": {
+     "Alejandro Davidovich Fokina": 3.75,
+     "Alexander Zverev": 1.27
+    },
+    "Pinnacle": {
+     "Alejandro Davidovich Fokina": 3.84,
+     "Alexander Zverev": 1.31
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Alejandro Davidovich Fokina": 25.4,
+    "Alexander Zverev": 74.6
+   }
+  },
+  {
+   "competition": "Super Lig",
+   "match": "Erzurum BB vs Eyüpspor",
+   "debut_utc": "2026-10-17T10:30:00Z",
+   "cotes": {
+    "Unibet": {
+     "Erzurum BB": 1.5,
+     "Eyüpspor": 5.2,
+     "Draw": 3.6
+    },
+    "Betclic": {
+     "Erzurum BB": 1.54,
+     "Eyüpspor": 5.25,
+     "Draw": 3.63
+    },
+    "Winamax": {
+     "Erzurum BB": 1.52,
+     "Eyüpspor": 4.7,
+     "Draw": 3.5
+    },
+    "Pinnacle": {
+     "Erzurum BB": 1.62,
+     "Eyüpspor": 5.6,
+     "Draw": 3.87
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Erzurum BB": 58.6,
+    "Eyüpspor": 16.9,
+    "Draw": 24.5
+   }
+  },
+  {
+   "competition": "Premier League",
+   "match": "Everton vs Chelsea",
+   "debut_utc": "2026-10-17T11:30:00Z",
+   "cotes": {
+    "Winamax": {
+     "Chelsea": 2.05,
+     "Everton": 2.95,
+     "Draw": 3.6
+    },
+    "Unibet": {
+     "Chelsea": 2.0,
+     "Everton": 3.1,
+     "Draw": 3.6
+    },
+    "Betclic": {
+     "Chelsea": 2.07,
+     "Everton": 3.1,
+     "Draw": 3.63
+    },
+    "Pinnacle": {
+     "Chelsea": 2.18,
+     "Everton": 3.28,
+     "Draw": 3.7
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Chelsea": 44.4,
+    "Everton": 29.5,
+    "Draw": 26.1
+   }
+  },
+  {
+   "competition": "LaLiga",
+   "match": "Espanyol vs Atlético Madrid",
+   "debut_utc": "2026-10-17T12:00:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Atlético Madrid": 1.71,
+     "Espanyol": 4.94,
+     "Draw": 4.02
+    },
+    "Betclic": {
+     "Atlético Madrid": 1.64,
+     "Espanyol": 4.95,
+     "Draw": 3.75
+    },
+    "Winamax": {
+     "Atlético Madrid": 1.66,
+     "Espanyol": 4.3,
+     "Draw": 3.8
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Atlético Madrid": 56.4,
+    "Espanyol": 19.5,
+    "Draw": 24.0
+   }
+  },
+  {
+   "competition": "Serie A",
+   "match": "Venezia vs Napoli",
+   "debut_utc": "2026-10-17T13:00:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Napoli": 1.72,
+     "Venezia": 4.66,
+     "Draw": 4.16
+    },
+    "Unibet": {
+     "Napoli": 1.6,
+     "Venezia": 4.4,
+     "Draw": 3.7
+    },
+    "Winamax": {
+     "Napoli": 1.64,
+     "Venezia": 4.3,
+     "Draw": 3.9
+    },
+    "Betclic": {
+     "Napoli": 1.65,
+     "Venezia": 4.6,
+     "Draw": 3.9
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Napoli": 56.1,
+    "Venezia": 20.7,
+    "Draw": 23.2
+   }
+  },
+  {
+   "competition": "Super Lig",
+   "match": "Amed SK vs Torku Konyaspor",
+   "debut_utc": "2026-10-17T13:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Amed SK": 1.75,
+     "Torku Konyaspor": 3.75,
+     "Draw": 3.3
+    },
+    "Betclic": {
+     "Amed SK": 1.8,
+     "Torku Konyaspor": 3.78,
+     "Draw": 3.33
+    },
+    "Winamax": {
+     "Amed SK": 1.78,
+     "Torku Konyaspor": 3.45,
+     "Draw": 3.25
+    },
+    "Pinnacle": {
+     "Amed SK": 1.92,
+     "Torku Konyaspor": 3.9,
+     "Draw": 3.66
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Amed SK": 49.6,
+    "Torku Konyaspor": 24.4,
+    "Draw": 26.0
+   }
+  },
+  {
+   "competition": "Super Lig",
+   "match": "Genclerbirligi SK vs Galatasaray",
+   "debut_utc": "2026-10-17T13:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Galatasaray": 1.3,
+     "Genclerbirligi SK": 6.2,
+     "Draw": 4.8
+    },
+    "Betclic": {
+     "Galatasaray": 1.34,
+     "Genclerbirligi SK": 6.1,
+     "Draw": 4.8
+    },
+    "Winamax": {
+     "Galatasaray": 1.33,
+     "Genclerbirligi SK": 5.4,
+     "Draw": 4.6
+    },
+    "Pinnacle": {
+     "Galatasaray": 1.39,
+     "Genclerbirligi SK": 6.97,
+     "Draw": 5.18
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Galatasaray": 68.1,
+    "Genclerbirligi SK": 13.6,
+    "Draw": 18.3
+   }
+  },
+  {
+   "competition": "Bundesliga",
+   "match": "Elversberg vs Augsburg",
+   "debut_utc": "2026-10-17T13:30:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Augsburg": 2.68,
+     "Elversberg": 2.53,
+     "Draw": 3.78
+    },
+    "Unibet": {
+     "Augsburg": 2.5,
+     "Elversberg": 2.3,
+     "Draw": 3.7
+    },
+    "Winamax": {
+     "Augsburg": 2.45,
+     "Elversberg": 2.4,
+     "Draw": 3.75
+    },
+    "Betclic": {
+     "Augsburg": 2.52,
+     "Elversberg": 2.42,
+     "Draw": 3.7
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Augsburg": 36.1,
+    "Elversberg": 38.3,
+    "Draw": 25.6
+   }
+  },
+  {
+   "competition": "Bundesliga",
+   "match": "Union Berlin vs Borussia Dortmund",
+   "debut_utc": "2026-10-17T13:30:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Borussia Dortmund": 1.6,
+     "Union Berlin": 5.19,
+     "Draw": 4.53
+    },
+    "Unibet": {
+     "Borussia Dortmund": 1.5,
+     "Union Berlin": 4.8,
+     "Draw": 4.2
+    },
+    "Winamax": {
+     "Borussia Dortmund": 1.5,
+     "Union Berlin": 4.8,
+     "Draw": 4.2
+    },
+    "Betclic": {
+     "Borussia Dortmund": 1.52,
+     "Union Berlin": 5.1,
+     "Draw": 4.45
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Borussia Dortmund": 60.2,
+    "Union Berlin": 18.6,
+    "Draw": 21.3
+   }
+  },
+  {
+   "competition": "Bundesliga",
+   "match": "FC Schalke 04 vs FSV Mainz 05",
+   "debut_utc": "2026-10-17T13:30:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "FC Schalke 04": 3.11,
+     "FSV Mainz 05": 2.29,
+     "Draw": 3.63
+    },
+    "Unibet": {
+     "FC Schalke 04": 2.85,
+     "FSV Mainz 05": 2.1,
+     "Draw": 3.5
+    },
+    "Winamax": {
+     "FC Schalke 04": 2.8,
+     "FSV Mainz 05": 2.15,
+     "Draw": 3.55
+    },
+    "Betclic": {
+     "FC Schalke 04": 2.9,
+     "FSV Mainz 05": 2.2,
+     "Draw": 3.55
+    }
+   },
+   "proba_pinnacle_pct": {
+    "FC Schalke 04": 31.1,
+    "FSV Mainz 05": 42.2,
+    "Draw": 26.6
+   }
+  },
+  {
+   "competition": "Bundesliga",
+   "match": "Hamburger SV vs VfB Stuttgart",
+   "debut_utc": "2026-10-17T13:30:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Hamburger SV": 4.22,
+     "VfB Stuttgart": 1.82,
+     "Draw": 4.03
+    },
+    "Unibet": {
+     "Hamburger SV": 3.7,
+     "VfB Stuttgart": 1.68,
+     "Draw": 4.0
+    },
+    "Winamax": {
+     "Hamburger SV": 3.6,
+     "VfB Stuttgart": 1.72,
+     "Draw": 4.1
+    },
+    "Betclic": {
+     "Hamburger SV": 4.0,
+     "VfB Stuttgart": 1.72,
+     "Draw": 4.0
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Hamburger SV": 22.9,
+    "VfB Stuttgart": 53.1,
+    "Draw": 24.0
+   }
+  },
+  {
+   "competition": "Bundesliga",
+   "match": "Werder Bremen vs SC Paderborn",
+   "debut_utc": "2026-10-17T13:30:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "SC Paderborn": 4.1,
+     "Werder Bremen": 1.78,
+     "Draw": 4.32
+    },
+    "Unibet": {
+     "SC Paderborn": 3.8,
+     "Werder Bremen": 1.7,
+     "Draw": 3.9
+    },
+    "Winamax": {
+     "SC Paderborn": 3.7,
+     "Werder Bremen": 1.74,
+     "Draw": 4.0
+    },
+    "Betclic": {
+     "SC Paderborn": 3.9,
+     "Werder Bremen": 1.75,
+     "Draw": 3.98
+    }
+   },
+   "proba_pinnacle_pct": {
+    "SC Paderborn": 23.5,
+    "Werder Bremen": 54.2,
+    "Draw": 22.3
+   }
+  },
+  {
+   "competition": "Premier League",
+   "match": "Brentford vs Liverpool",
+   "debut_utc": "2026-10-17T14:00:00Z",
+   "cotes": {
+    "Winamax": {
+     "Brentford": 2.3,
+     "Liverpool": 2.65,
+     "Draw": 3.5
+    },
+    "Unibet": {
+     "Brentford": 2.35,
+     "Liverpool": 2.6,
+     "Draw": 3.5
+    },
+    "Betclic": {
+     "Brentford": 2.3,
+     "Liverpool": 2.7,
+     "Draw": 3.63
+    },
+    "Pinnacle": {
+     "Brentford": 2.42,
+     "Liverpool": 2.87,
+     "Draw": 3.67
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Brentford": 40.0,
+    "Liverpool": 33.7,
+    "Draw": 26.3
+   }
+  },
+  {
+   "competition": "Premier League",
+   "match": "Fulham vs Hull City",
+   "debut_utc": "2026-10-17T14:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Fulham": 1.65,
+     "Hull City": 4.4,
+     "Draw": 3.8
+    },
+    "Winamax": {
+     "Fulham": 1.64,
+     "Hull City": 4.3,
+     "Draw": 3.85
+    },
+    "Betclic": {
+     "Fulham": 1.66,
+     "Hull City": 4.55,
+     "Draw": 3.88
+    },
+    "Pinnacle": {
+     "Fulham": 1.69,
+     "Hull City": 5.01,
+     "Draw": 4.08
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Fulham": 57.1,
+    "Hull City": 19.3,
+    "Draw": 23.6
+   }
+  },
+  {
+   "competition": "Premier League",
+   "match": "Manchester City vs Ipswich Town",
+   "debut_utc": "2026-10-17T14:00:00Z",
+   "cotes": {
+    "Winamax": {
+     "Ipswich Town": 8.0,
+     "Manchester City": 1.22,
+     "Draw": 6.25
+    },
+    "Unibet": {
+     "Ipswich Town": 10.0,
+     "Manchester City": 1.17,
+     "Draw": 6.7
+    },
+    "Betclic": {
+     "Ipswich Town": 9.75,
+     "Manchester City": 1.22,
+     "Draw": 6.4
+    },
+    "Pinnacle": {
+     "Ipswich Town": 10.46,
+     "Manchester City": 1.24,
+     "Draw": 7.08
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Ipswich Town": 9.2,
+    "Manchester City": 77.3,
+    "Draw": 13.5
+   }
+  },
+  {
+   "competition": "LaLiga",
+   "match": "Villarreal vs Elche CF",
+   "debut_utc": "2026-10-17T14:15:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Elche CF": 6.52,
+     "Villarreal": 1.45,
+     "Draw": 5.09
+    },
+    "Betclic": {
+     "Elche CF": 6.0,
+     "Villarreal": 1.41,
+     "Draw": 4.9
+    },
+    "Unibet": {
+     "Elche CF": 5.6,
+     "Villarreal": 1.4,
+     "Draw": 4.6
+    },
+    "Winamax": {
+     "Elche CF": 5.5,
+     "Villarreal": 1.41,
+     "Draw": 4.9
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Elche CF": 14.8,
+    "Villarreal": 66.3,
+    "Draw": 18.9
+   }
+  },
+  {
+   "competition": "Eredivisie",
+   "match": "ADO Den Haag vs PSV Eindhoven",
+   "debut_utc": "2026-10-17T14:30:00Z",
+   "cotes": {
+    "Winamax": {
+     "ADO Den Haag": 6.75,
+     "PSV Eindhoven": 1.22,
+     "Draw": 6.25
+    },
+    "Unibet": {
+     "ADO Den Haag": 7.3,
+     "PSV Eindhoven": 1.21,
+     "Draw": 6.0
+    },
+    "Betclic": {
+     "ADO Den Haag": 7.5,
+     "PSV Eindhoven": 1.22,
+     "Draw": 6.0
+    },
+    "Pinnacle": {
+     "ADO Den Haag": 7.81,
+     "PSV Eindhoven": 1.28,
+     "Draw": 6.6
+    }
+   },
+   "proba_pinnacle_pct": {
+    "ADO Den Haag": 12.1,
+    "PSV Eindhoven": 73.6,
+    "Draw": 14.3
+   }
+  },
+  {
+   "competition": "Ligue 1",
+   "match": "Strasbourg vs Paris Saint Germain",
+   "debut_utc": "2026-10-17T15:15:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Paris Saint Germain": 1.4,
+     "Strasbourg": 6.82,
+     "Draw": 5.63
+    },
+    "Betclic": {
+     "Paris Saint Germain": 1.35,
+     "Strasbourg": 6.5,
+     "Draw": 5.4
+    },
+    "Unibet": {
+     "Paris Saint Germain": 1.35,
+     "Strasbourg": 6.0,
+     "Draw": 5.4
+    },
+    "Winamax": {
+     "Paris Saint Germain": 1.36,
+     "Strasbourg": 5.7,
+     "Draw": 5.4
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Paris Saint Germain": 68.8,
+    "Strasbourg": 14.1,
+    "Draw": 17.1
+   }
+  },
+  {
+   "competition": "Serie A",
+   "match": "Bologna vs Inter Milan",
+   "debut_utc": "2026-10-17T16:00:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Bologna": 5.82,
+     "Inter Milan": 1.62,
+     "Draw": 4.02
+    },
+    "Unibet": {
+     "Bologna": 5.0,
+     "Inter Milan": 1.51,
+     "Draw": 3.9
+    },
+    "Winamax": {
+     "Bologna": 5.1,
+     "Inter Milan": 1.54,
+     "Draw": 3.9
+    },
+    "Betclic": {
+     "Bologna": 5.4,
+     "Inter Milan": 1.54,
+     "Draw": 4.1
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Bologna": 16.6,
+    "Inter Milan": 59.5,
+    "Draw": 24.0
+   }
+  },
+  {
+   "competition": "Super Lig",
+   "match": "Fenerbahce vs Alanyaspor",
+   "debut_utc": "2026-10-17T16:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Alanyaspor": 8.3,
+     "Fenerbahce": 1.21,
+     "Draw": 5.2
+    },
+    "Betclic": {
+     "Alanyaspor": 8.25,
+     "Fenerbahce": 1.24,
+     "Draw": 5.25
+    },
+    "Winamax": {
+     "Alanyaspor": 7.0,
+     "Fenerbahce": 1.23,
+     "Draw": 5.0
+    },
+    "Pinnacle": {
+     "Alanyaspor": 9.2,
+     "Fenerbahce": 1.29,
+     "Draw": 5.7
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Alanyaspor": 10.3,
+    "Fenerbahce": 73.2,
+    "Draw": 16.6
+   }
+  },
+  {
+   "competition": "Premier League",
+   "match": "Newcastle United vs Aston Villa",
+   "debut_utc": "2026-10-17T16:30:00Z",
+   "cotes": {
+    "Unibet": {
+     "Aston Villa": 2.85,
+     "Newcastle United": 2.15,
+     "Draw": 3.6
+    },
+    "Winamax": {
+     "Aston Villa": 2.75,
+     "Newcastle United": 2.2,
+     "Draw": 3.6
+    },
+    "Betclic": {
+     "Aston Villa": 2.88,
+     "Newcastle United": 2.2,
+     "Draw": 3.6
+    },
+    "Pinnacle": {
+     "Aston Villa": 2.98,
+     "Newcastle United": 2.32,
+     "Draw": 3.76
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Aston Villa": 32.5,
+    "Newcastle United": 41.7,
+    "Draw": 25.8
+   }
+  },
+  {
+   "competition": "Bundesliga",
+   "match": "Bayern Munich vs RB Leipzig",
+   "debut_utc": "2026-10-17T16:30:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Bayern Munich": 1.23,
+     "RB Leipzig": 10.15,
+     "Draw": 8.16
+    },
+    "Unibet": {
+     "Bayern Munich": 1.17,
+     "RB Leipzig": 8.6,
+     "Draw": 7.2
+    },
+    "Winamax": {
+     "Bayern Munich": 1.19,
+     "RB Leipzig": 8.0,
+     "Draw": 7.5
+    },
+    "Betclic": {
+     "Bayern Munich": 1.18,
+     "RB Leipzig": 9.5,
+     "Draw": 7.75
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Bayern Munich": 78.6,
+    "RB Leipzig": 9.5,
+    "Draw": 11.9
+   }
+  },
+  {
+   "competition": "LaLiga",
+   "match": "Real Betis vs Barcelona",
+   "debut_utc": "2026-10-17T16:30:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Barcelona": 1.41,
+     "Real Betis": 6.41,
+     "Draw": 5.79
+    },
+    "Betclic": {
+     "Barcelona": 1.36,
+     "Real Betis": 5.9,
+     "Draw": 5.6
+    },
+    "Unibet": {
+     "Barcelona": 1.35,
+     "Real Betis": 5.0,
+     "Draw": 5.8
+    },
+    "Winamax": {
+     "Barcelona": 1.36,
+     "Real Betis": 5.2,
+     "Draw": 6.0
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Barcelona": 68.3,
+    "Real Betis": 15.0,
+    "Draw": 16.6
+   }
+  },
+  {
+   "competition": "Eredivisie",
+   "match": "SC Telstar vs Feyenoord",
+   "debut_utc": "2026-10-17T18:00:00Z",
+   "cotes": {
+    "Winamax": {
+     "Feyenoord": 1.27,
+     "SC Telstar": 6.25,
+     "Draw": 5.5
+    },
+    "Unibet": {
+     "Feyenoord": 1.25,
+     "SC Telstar": 6.8,
+     "Draw": 5.4
+    },
+    "Betclic": {
+     "Feyenoord": 1.26,
+     "SC Telstar": 6.9,
+     "Draw": 5.4
+    },
+    "Pinnacle": {
+     "Feyenoord": 1.33,
+     "SC Telstar": 8.19,
+     "Draw": 5.45
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Feyenoord": 71.1,
+    "SC Telstar": 11.5,
+    "Draw": 17.4
+   }
+  },
+  {
+   "competition": "Ligue 1",
+   "match": "Lille vs Brest",
+   "debut_utc": "2026-10-17T18:45:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Brest": 4.03,
+     "Lille": 1.87,
+     "Draw": 3.95
+    },
+    "Betclic": {
+     "Brest": 4.05,
+     "Lille": 1.74,
+     "Draw": 3.93
+    },
+    "Unibet": {
+     "Brest": 3.9,
+     "Lille": 1.73,
+     "Draw": 3.8
+    },
+    "Winamax": {
+     "Brest": 3.7,
+     "Lille": 1.78,
+     "Draw": 3.8
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Brest": 24.0,
+    "Lille": 51.6,
+    "Draw": 24.4
+   }
+  },
+  {
+   "competition": "Ligue 1",
+   "match": "Troyes vs RC Lens",
+   "debut_utc": "2026-10-17T18:45:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "RC Lens": 1.86,
+     "Troyes": 3.99,
+     "Draw": 4.04
+    },
+    "Betclic": {
+     "RC Lens": 1.78,
+     "Troyes": 3.8,
+     "Draw": 3.9
+    },
+    "Unibet": {
+     "RC Lens": 1.76,
+     "Troyes": 3.7,
+     "Draw": 3.8
+    },
+    "Winamax": {
+     "RC Lens": 1.78,
+     "Troyes": 3.6,
+     "Draw": 3.9
+    }
+   },
+   "proba_pinnacle_pct": {
+    "RC Lens": 51.9,
+    "Troyes": 24.2,
+    "Draw": 23.9
+   }
+  },
+  {
+   "competition": "Serie A",
+   "match": "AS Roma vs Genoa",
+   "debut_utc": "2026-10-17T18:45:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "AS Roma": 1.51,
+     "Genoa": 6.55,
+     "Draw": 4.45
+    },
+    "Unibet": {
+     "AS Roma": 1.42,
+     "Genoa": 5.6,
+     "Draw": 4.2
+    },
+    "Winamax": {
+     "AS Roma": 1.46,
+     "Genoa": 5.5,
+     "Draw": 4.4
+    },
+    "Betclic": {
+     "AS Roma": 1.45,
+     "Genoa": 6.0,
+     "Draw": 4.45
+    }
+   },
+   "proba_pinnacle_pct": {
+    "AS Roma": 63.7,
+    "Genoa": 14.7,
+    "Draw": 21.6
+   }
+  },
+  {
+   "competition": "LaLiga",
+   "match": "Valencia vs Athletic Bilbao",
+   "debut_utc": "2026-10-17T19:00:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Athletic Bilbao": 2.25,
+     "Valencia": 3.4,
+     "Draw": 3.39
+    },
+    "Betclic": {
+     "Athletic Bilbao": 2.18,
+     "Valencia": 3.2,
+     "Draw": 3.23
+    },
+    "Unibet": {
+     "Athletic Bilbao": 2.0,
+     "Valencia": 3.3,
+     "Draw": 3.3
+    },
+    "Winamax": {
+     "Athletic Bilbao": 2.15,
+     "Valencia": 3.1,
+     "Draw": 3.2
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Athletic Bilbao": 43.0,
+    "Valencia": 28.5,
+    "Draw": 28.5
+   }
+  },
+  {
+   "competition": "Eredivisie",
+   "match": "Sparta Rotterdam vs Willem II",
+   "debut_utc": "2026-10-17T19:00:00Z",
+   "cotes": {
+    "Winamax": {
+     "Sparta Rotterdam": 1.54,
+     "Willem II": 4.1,
+     "Draw": 4.1
+    },
+    "Unibet": {
+     "Sparta Rotterdam": 1.52,
+     "Willem II": 4.4,
+     "Draw": 4.1
+    },
+    "Betclic": {
+     "Sparta Rotterdam": 1.54,
+     "Willem II": 4.4,
+     "Draw": 4.1
+    },
+    "Pinnacle": {
+     "Sparta Rotterdam": 1.63,
+     "Willem II": 4.64,
+     "Draw": 4.43
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Sparta Rotterdam": 58.2,
+    "Willem II": 20.4,
+    "Draw": 21.4
    }
   }
  ]

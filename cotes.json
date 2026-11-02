@@ -1,1097 +1,636 @@
 {
- "mis_a_jour_utc": "2026-11-01T12:01:30Z",
+ "mis_a_jour_utc": "2026-11-02T13:49:57Z",
  "horizon_heures": 36,
- "requetes_restantes_ce_mois": "486",
+ "requetes_restantes_ce_mois": "474",
  "erreurs": [],
  "matchs": [
   {
-   "competition": "LaLiga",
-   "match": "Getafe vs Sevilla",
-   "debut_utc": "2026-11-01T13:00:00Z",
+   "competition": "ATP Paris Masters",
+   "match": "Mattia Bellucci vs Lorenzo Sonego",
+   "debut_utc": "2026-11-02T14:40:00Z",
    "cotes": {
-    "Pinnacle": {
-     "Getafe": 3.5,
-     "Sevilla": 2.42,
-     "Draw": 3.06
-    },
-    "Betclic": {
-     "Getafe": 3.2,
-     "Sevilla": 2.27,
-     "Draw": 2.97
-    },
     "Unibet": {
-     "Getafe": 3.2,
-     "Sevilla": 2.2,
-     "Draw": 2.95
+     "Lorenzo Sonego": 2.0,
+     "Mattia Bellucci": 1.55
     },
     "Winamax": {
-     "Getafe": 3.05,
-     "Sevilla": 2.25,
-     "Draw": 2.95
+     "Lorenzo Sonego": 2.2,
+     "Mattia Bellucci": 1.6
+    },
+    "Betclic": {
+     "Lorenzo Sonego": 2.21,
+     "Mattia Bellucci": 1.62
+    },
+    "Pinnacle": {
+     "Lorenzo Sonego": 2.31,
+     "Mattia Bellucci": 1.68
     }
    },
    "proba_pinnacle_pct": {
-    "Getafe": 27.9,
-    "Sevilla": 40.3,
-    "Draw": 31.9
-   }
-  },
-  {
-   "competition": "Super Lig",
-   "match": "Basaksehir vs Samsunspor",
-   "debut_utc": "2026-11-01T13:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Basaksehir": 1.63,
-     "Samsunspor": 3.9,
-     "Draw": 3.7
-    },
-    "Betclic": {
-     "Basaksehir": 1.7,
-     "Samsunspor": 3.88,
-     "Draw": 3.65
-    },
-    "Winamax": {
-     "Basaksehir": 1.7,
-     "Samsunspor": 3.75,
-     "Draw": 3.75
-    },
-    "Pinnacle": {
-     "Basaksehir": 1.8,
-     "Samsunspor": 4.36,
-     "Draw": 4.03
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Basaksehir": 53.8,
-    "Samsunspor": 22.2,
-    "Draw": 24.0
-   }
-  },
-  {
-   "competition": "Super Lig",
-   "match": "Trabzonspor vs Gazişehir Gaziantep",
-   "debut_utc": "2026-11-01T13:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Gazişehir Gaziantep": 8.0,
-     "Trabzonspor": 1.18,
-     "Draw": 5.9
-    },
-    "Betclic": {
-     "Gazişehir Gaziantep": 8.25,
-     "Trabzonspor": 1.2,
-     "Draw": 6.0
-    },
-    "Winamax": {
-     "Gazişehir Gaziantep": 7.5,
-     "Trabzonspor": 1.21,
-     "Draw": 6.25
-    },
-    "Pinnacle": {
-     "Gazişehir Gaziantep": 10.8,
-     "Trabzonspor": 1.24,
-     "Draw": 7.5
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Gazişehir Gaziantep": 9.0,
-    "Trabzonspor": 78.1,
-    "Draw": 12.9
+    "Lorenzo Sonego": 42.1,
+    "Mattia Bellucci": 57.9
    }
   },
   {
    "competition": "ATP Paris Masters",
-   "match": "Adolfo Daniel Vallejo vs Lorenzo Sonego",
-   "debut_utc": "2026-11-01T13:00:00Z",
+   "match": "Kyrian Jacquet vs Tomas Machac",
+   "debut_utc": "2026-11-02T14:45:00Z",
    "cotes": {
-    "Pinnacle": {
-     "Adolfo Daniel Vallejo": 2.2,
-     "Lorenzo Sonego": 1.71
-    },
     "Unibet": {
-     "Adolfo Daniel Vallejo": 2.1,
-     "Lorenzo Sonego": 1.53
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Adolfo Daniel Vallejo": 43.7,
-    "Lorenzo Sonego": 56.3
-   }
-  },
-  {
-   "competition": "ATP Vienna Open",
-   "match": "Alex de Minaur vs Carlos Alcaraz",
-   "debut_utc": "2026-11-01T13:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "Alex de Minaur": 4.3,
-     "Carlos Alcaraz": 1.19
-    },
-    "Unibet": {
-     "Alex de Minaur": 4.3,
-     "Carlos Alcaraz": 1.19
+     "Kyrian Jacquet": 2.2,
+     "Tomas Machac": 1.45
     },
     "Winamax": {
-     "Alex de Minaur": 4.2,
-     "Carlos Alcaraz": 1.19
-    },
-    "Pinnacle": {
-     "Alex de Minaur": 4.93,
-     "Carlos Alcaraz": 1.22
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Alex de Minaur": 19.8,
-    "Carlos Alcaraz": 80.2
-   }
-  },
-  {
-   "competition": "Eredivisie",
-   "match": "Excelsior vs FC Twente Enschede",
-   "debut_utc": "2026-11-01T13:30:00Z",
-   "cotes": {
-    "Winamax": {
-     "Excelsior": 4.8,
-     "FC Twente Enschede": 1.41,
-     "Draw": 4.3
+     "Kyrian Jacquet": 2.55,
+     "Tomas Machac": 1.46
     },
     "Betclic": {
-     "Excelsior": 5.5,
-     "FC Twente Enschede": 1.44,
-     "Draw": 4.55
-    },
-    "Unibet": {
-     "Excelsior": 5.2,
-     "FC Twente Enschede": 1.37,
-     "Draw": 4.4
+     "Kyrian Jacquet": 2.57,
+     "Tomas Machac": 1.46
     },
     "Pinnacle": {
-     "Excelsior": 6.27,
-     "FC Twente Enschede": 1.51,
-     "Draw": 4.74
+     "Kyrian Jacquet": 2.74,
+     "Tomas Machac": 1.51
     }
    },
    "proba_pinnacle_pct": {
-    "Excelsior": 15.4,
-    "FC Twente Enschede": 64.1,
-    "Draw": 20.4
-   }
-  },
-  {
-   "competition": "Eredivisie",
-   "match": "SC Telstar vs FC Utrecht",
-   "debut_utc": "2026-11-01T13:30:00Z",
-   "cotes": {
-    "Unibet": {
-     "FC Utrecht": 1.9,
-     "SC Telstar": 2.9,
-     "Draw": 3.55
-    },
-    "Winamax": {
-     "FC Utrecht": 1.98,
-     "SC Telstar": 2.75,
-     "Draw": 3.55
-    },
-    "Betclic": {
-     "FC Utrecht": 2.02,
-     "SC Telstar": 3.0,
-     "Draw": 3.68
-    },
-    "Pinnacle": {
-     "FC Utrecht": 2.18,
-     "SC Telstar": 3.22,
-     "Draw": 3.8
-    }
-   },
-   "proba_pinnacle_pct": {
-    "FC Utrecht": 44.4,
-    "SC Telstar": 30.1,
-    "Draw": 25.5
+    "Kyrian Jacquet": 35.5,
+    "Tomas Machac": 64.5
    }
   },
   {
    "competition": "ATP Paris Masters",
-   "match": "Benjamin Bonzi vs Yannick Hanfmann",
-   "debut_utc": "2026-11-01T13:30:00Z",
+   "match": "Alex Molcan vs Titouan Droguet",
+   "debut_utc": "2026-11-02T15:55:00Z",
    "cotes": {
-    "Pinnacle": {
-     "Benjamin Bonzi": 1.68,
-     "Yannick Hanfmann": 2.26
-    },
-    "Unibet": {
-     "Benjamin Bonzi": 1.47,
-     "Yannick Hanfmann": 2.0
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Benjamin Bonzi": 57.4,
-    "Yannick Hanfmann": 42.6
-   }
-  },
-  {
-   "competition": "Ligue 1",
-   "match": "Strasbourg vs Auxerre",
-   "debut_utc": "2026-11-01T14:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Auxerre": 4.07,
-     "Strasbourg": 1.87,
-     "Draw": 4.07
-    },
     "Betclic": {
-     "Auxerre": 3.75,
-     "Strasbourg": 1.79,
-     "Draw": 3.78
+     "Alex Molcan": 1.71,
+     "Titouan Droguet": 2.05
     },
     "Unibet": {
-     "Auxerre": 3.8,
-     "Strasbourg": 1.75,
-     "Draw": 3.8
+     "Alex Molcan": 1.67,
+     "Titouan Droguet": 1.84
     },
     "Winamax": {
-     "Auxerre": 3.6,
-     "Strasbourg": 1.76,
-     "Draw": 3.95
+     "Alex Molcan": 1.7,
+     "Titouan Droguet": 2.05
+    },
+    "Pinnacle": {
+     "Alex Molcan": 1.76,
+     "Titouan Droguet": 2.15
     }
    },
    "proba_pinnacle_pct": {
-    "Auxerre": 23.9,
-    "Strasbourg": 52.1,
-    "Draw": 23.9
+    "Alex Molcan": 55.0,
+    "Titouan Droguet": 45.0
    }
   },
   {
-   "competition": "Serie A",
-   "match": "Lazio vs Cagliari",
-   "debut_utc": "2026-11-01T14:00:00Z",
+   "competition": "Super Lig",
+   "match": "Genclerbirligi SK vs Alanyaspor",
+   "debut_utc": "2026-11-02T17:00:00Z",
    "cotes": {
-    "Pinnacle": {
-     "Cagliari": 7.58,
-     "Lazio": 1.48,
-     "Draw": 4.43
-    },
-    "Unibet": {
-     "Cagliari": 6.2,
-     "Lazio": 1.4,
-     "Draw": 4.3
+    "Betclic": {
+     "Alanyaspor": 2.53,
+     "Genclerbirligi SK": 2.47,
+     "Draw": 3.15
     },
     "Winamax": {
-     "Cagliari": 5.8,
-     "Lazio": 1.44,
-     "Draw": 4.2
-    },
-    "Betclic": {
-     "Cagliari": 6.1,
-     "Lazio": 1.44,
-     "Draw": 4.25
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Cagliari": 12.8,
-    "Lazio": 65.4,
-    "Draw": 21.8
-   }
-  },
-  {
-   "competition": "Serie A",
-   "match": "Frosinone vs Torino",
-   "debut_utc": "2026-11-01T14:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Frosinone": 2.02,
-     "Torino": 3.55,
-     "Draw": 4.01
-    },
-    "Unibet": {
-     "Frosinone": 1.9,
-     "Torino": 3.1,
-     "Draw": 3.8
-    },
-    "Winamax": {
-     "Frosinone": 1.9,
-     "Torino": 3.1,
-     "Draw": 3.9
-    },
-    "Betclic": {
-     "Frosinone": 1.92,
-     "Torino": 3.2,
-     "Draw": 3.9
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Frosinone": 48.2,
-    "Torino": 27.5,
-    "Draw": 24.3
-   }
-  },
-  {
-   "competition": "Bundesliga",
-   "match": "Union Berlin vs 1. FC Köln",
-   "debut_utc": "2026-11-01T14:30:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "1. FC Köln": 2.63,
-     "Union Berlin": 2.74,
-     "Draw": 3.58
-    },
-    "Unibet": {
-     "1. FC Köln": 2.5,
-     "Union Berlin": 2.5,
+     "Alanyaspor": 2.45,
+     "Genclerbirligi SK": 2.45,
      "Draw": 3.2
     },
-    "Winamax": {
-     "1. FC Köln": 2.45,
-     "Union Berlin": 2.45,
-     "Draw": 3.4
-    },
-    "Betclic": {
-     "1. FC Köln": 2.47,
-     "Union Berlin": 2.55,
-     "Draw": 3.4
-    }
-   },
-   "proba_pinnacle_pct": {
-    "1. FC Köln": 37.1,
-    "Union Berlin": 35.6,
-    "Draw": 27.3
-   }
-  },
-  {
-   "competition": "ATP Swiss Indoors Basel",
-   "match": "Jiri Lehecka vs Valentin Vacherot",
-   "debut_utc": "2026-11-01T14:30:00Z",
-   "cotes": {
     "Unibet": {
-     "Jiri Lehecka": 1.48,
-     "Valentin Vacherot": 2.55
-    },
-    "Betclic": {
-     "Jiri Lehecka": 1.48,
-     "Valentin Vacherot": 2.55
-    },
-    "Winamax": {
-     "Jiri Lehecka": 1.48,
-     "Valentin Vacherot": 2.5
+     "Alanyaspor": 2.55,
+     "Genclerbirligi SK": 2.35,
+     "Draw": 3.15
     },
     "Pinnacle": {
-     "Jiri Lehecka": 1.54,
-     "Valentin Vacherot": 2.66
+     "Alanyaspor": 2.73,
+     "Genclerbirligi SK": 2.76,
+     "Draw": 3.31
     }
    },
    "proba_pinnacle_pct": {
-    "Jiri Lehecka": 63.3,
-    "Valentin Vacherot": 36.7
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Nuno Borges vs Alex Molcan",
-   "debut_utc": "2026-11-01T14:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Alex Molcan": 2.32,
-     "Nuno Borges": 1.65
-    },
-    "Unibet": {
-     "Alex Molcan": 2.1,
-     "Nuno Borges": 1.54
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Alex Molcan": 41.6,
-    "Nuno Borges": 58.4
-   }
-  },
-  {
-   "competition": "LaLiga",
-   "match": "Real Racing Club de Santander vs Real Madrid",
-   "debut_utc": "2026-11-01T15:15:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Real Madrid": 1.2,
-     "Real Racing Club de Santander": 12.2,
-     "Draw": 8.29
-    },
-    "Betclic": {
-     "Real Madrid": 1.17,
-     "Real Racing Club de Santander": 10.5,
-     "Draw": 7.5
-    },
-    "Unibet": {
-     "Real Madrid": 1.15,
-     "Real Racing Club de Santander": 10.0,
-     "Draw": 7.1
-    },
-    "Winamax": {
-     "Real Madrid": 1.16,
-     "Real Racing Club de Santander": 9.0,
-     "Draw": 7.5
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Real Madrid": 80.4,
-    "Real Racing Club de Santander": 7.9,
-    "Draw": 11.6
-   }
-  },
-  {
-   "competition": "Liga Portugal",
-   "match": "Arouca vs Nacional",
-   "debut_utc": "2026-11-01T15:30:00Z",
-   "cotes": {
-    "Unibet": {
-     "Arouca": 1.47,
-     "Nacional": 4.85,
-     "Draw": 3.75
-    },
-    "Betclic": {
-     "Arouca": 1.55,
-     "Nacional": 5.1,
-     "Draw": 3.9
-    },
-    "Winamax": {
-     "Arouca": 1.52,
-     "Nacional": 4.5,
-     "Draw": 3.75
-    },
-    "Pinnacle": {
-     "Arouca": 1.62,
-     "Nacional": 5.61,
-     "Draw": 4.17
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Arouca": 59.6,
-    "Nacional": 17.2,
-    "Draw": 23.2
-   }
-  },
-  {
-   "competition": "Eredivisie",
-   "match": "Groningen vs Sparta Rotterdam",
-   "debut_utc": "2026-11-01T15:45:00Z",
-   "cotes": {
-    "Winamax": {
-     "Groningen": 1.64,
-     "Sparta Rotterdam": 3.55,
-     "Draw": 3.85
-    },
-    "Unibet": {
-     "Groningen": 1.59,
-     "Sparta Rotterdam": 3.8,
-     "Draw": 3.85
-    },
-    "Betclic": {
-     "Groningen": 1.68,
-     "Sparta Rotterdam": 3.9,
-     "Draw": 4.0
-    },
-    "Pinnacle": {
-     "Groningen": 1.76,
-     "Sparta Rotterdam": 4.29,
-     "Draw": 4.31
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Groningen": 55.0,
-    "Sparta Rotterdam": 22.6,
-    "Draw": 22.5
-   }
-  },
-  {
-   "competition": "Super Lig",
-   "match": "Kasimpasa SK vs Besiktas JK",
-   "debut_utc": "2026-11-01T16:00:00Z",
-   "cotes": {
-    "Winamax": {
-     "Besiktas JK": 1.49,
-     "Kasimpasa SK": 4.7,
-     "Draw": 4.2
-    },
-    "Unibet": {
-     "Besiktas JK": 1.42,
-     "Kasimpasa SK": 5.1,
-     "Draw": 4.2
-    },
-    "Betclic": {
-     "Besiktas JK": 1.51,
-     "Kasimpasa SK": 4.7,
-     "Draw": 4.05
-    },
-    "Pinnacle": {
-     "Besiktas JK": 1.58,
-     "Kasimpasa SK": 5.4,
-     "Draw": 4.58
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Besiktas JK": 61.1,
-    "Kasimpasa SK": 17.9,
-    "Draw": 21.1
-   }
-  },
-  {
-   "competition": "Ligue 1",
-   "match": "Paris FC vs AS Monaco",
-   "debut_utc": "2026-11-01T16:15:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "AS Monaco": 2.79,
-     "Paris FC": 2.57,
-     "Draw": 3.61
-    },
-    "Betclic": {
-     "AS Monaco": 2.67,
-     "Paris FC": 2.38,
-     "Draw": 3.4
-    },
-    "Unibet": {
-     "AS Monaco": 2.6,
-     "Paris FC": 2.4,
-     "Draw": 3.4
-    },
-    "Winamax": {
-     "AS Monaco": 2.6,
-     "Paris FC": 2.35,
-     "Draw": 3.45
-    }
-   },
-   "proba_pinnacle_pct": {
-    "AS Monaco": 35.0,
-    "Paris FC": 38.0,
-    "Draw": 27.0
-   }
-  },
-  {
-   "competition": "Ligue 1",
-   "match": "Lyon vs Angers",
-   "debut_utc": "2026-11-01T16:15:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Angers": 7.5,
-     "Lyon": 1.43,
-     "Draw": 5.01
-    },
-    "Betclic": {
-     "Angers": 6.5,
-     "Lyon": 1.38,
-     "Draw": 4.75
-    },
-    "Unibet": {
-     "Angers": 6.6,
-     "Lyon": 1.37,
-     "Draw": 4.6
-    },
-    "Winamax": {
-     "Angers": 6.5,
-     "Lyon": 1.39,
-     "Draw": 4.5
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Angers": 12.9,
-    "Lyon": 67.7,
-    "Draw": 19.3
-   }
-  },
-  {
-   "competition": "Premier League",
-   "match": "Liverpool vs Arsenal",
-   "debut_utc": "2026-11-01T16:30:00Z",
-   "cotes": {
-    "Unibet": {
-     "Arsenal": 2.4,
-     "Liverpool": 2.75,
-     "Draw": 3.3
-    },
-    "Betclic": {
-     "Arsenal": 2.42,
-     "Liverpool": 2.75,
-     "Draw": 3.3
-    },
-    "Winamax": {
-     "Arsenal": 2.4,
-     "Liverpool": 2.55,
-     "Draw": 3.3
-    },
-    "Pinnacle": {
-     "Arsenal": 2.6,
-     "Liverpool": 2.86,
-     "Draw": 3.45
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Arsenal": 37.6,
-    "Liverpool": 34.1,
-    "Draw": 28.3
-   }
-  },
-  {
-   "competition": "Bundesliga",
-   "match": "Eintracht Frankfurt vs Hamburger SV",
-   "debut_utc": "2026-11-01T16:30:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Eintracht Frankfurt": 1.54,
-     "Hamburger SV": 5.72,
-     "Draw": 4.86
-    },
-    "Unibet": {
-     "Eintracht Frankfurt": 1.46,
-     "Hamburger SV": 4.9,
-     "Draw": 4.5
-    },
-    "Winamax": {
-     "Eintracht Frankfurt": 1.48,
-     "Hamburger SV": 4.7,
-     "Draw": 4.6
-    },
-    "Betclic": {
-     "Eintracht Frankfurt": 1.48,
-     "Hamburger SV": 5.0,
-     "Draw": 4.6
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Eintracht Frankfurt": 63.0,
-    "Hamburger SV": 17.0,
-    "Draw": 20.0
-   }
-  },
-  {
-   "competition": "Serie A",
-   "match": "Lecce vs Genoa",
-   "debut_utc": "2026-11-01T17:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Genoa": 2.61,
-     "Lecce": 3.23,
-     "Draw": 3.01
-    },
-    "Unibet": {
-     "Genoa": 2.35,
-     "Lecce": 3.0,
-     "Draw": 2.9
-    },
-    "Winamax": {
-     "Genoa": 2.35,
-     "Lecce": 2.95,
-     "Draw": 2.9
-    },
-    "Betclic": {
-     "Genoa": 2.42,
-     "Lecce": 3.02,
-     "Draw": 2.92
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Genoa": 37.4,
-    "Lecce": 30.2,
-    "Draw": 32.4
-   }
-  },
-  {
-   "competition": "LaLiga",
-   "match": "Elche CF vs Valencia",
-   "debut_utc": "2026-11-01T17:30:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Elche CF": 2.41,
-     "Valencia": 3.23,
-     "Draw": 3.33
-    },
-    "Unibet": {
-     "Elche CF": 2.15,
-     "Valencia": 3.0,
-     "Draw": 3.3
-    },
-    "Betclic": {
-     "Elche CF": 2.2,
-     "Valencia": 3.0,
-     "Draw": 3.3
-    },
-    "Winamax": {
-     "Elche CF": 2.2,
-     "Valencia": 2.85,
-     "Draw": 3.25
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Elche CF": 40.5,
-    "Valencia": 30.2,
+    "Alanyaspor": 35.5,
+    "Genclerbirligi SK": 35.2,
     "Draw": 29.3
    }
   },
   {
-   "competition": "Liga Portugal",
-   "match": "Académico de Viseu vs Rio Ave FC",
-   "debut_utc": "2026-11-01T18:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Académico de Viseu": 1.67,
-     "Rio Ave FC": 3.9,
-     "Draw": 3.4
-    },
-    "Betclic": {
-     "Académico de Viseu": 1.77,
-     "Rio Ave FC": 4.05,
-     "Draw": 3.5
-    },
-    "Winamax": {
-     "Académico de Viseu": 1.74,
-     "Rio Ave FC": 3.65,
-     "Draw": 3.35
-    },
-    "Pinnacle": {
-     "Académico de Viseu": 1.87,
-     "Rio Ave FC": 4.49,
-     "Draw": 3.64
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Académico de Viseu": 51.8,
-    "Rio Ave FC": 21.6,
-    "Draw": 26.6
-   }
-  },
-  {
-   "competition": "Liga Portugal",
-   "match": "CS Maritimo vs Santa Clara",
-   "debut_utc": "2026-11-01T18:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "CS Maritimo": 3.33,
-     "Santa Clara": 2.12,
-     "Draw": 3.07
-    },
-    "Unibet": {
-     "CS Maritimo": 3.25,
-     "Santa Clara": 1.98,
-     "Draw": 2.95
-    },
-    "Winamax": {
-     "CS Maritimo": 3.05,
-     "Santa Clara": 2.05,
-     "Draw": 2.95
-    },
-    "Pinnacle": {
-     "CS Maritimo": 3.65,
-     "Santa Clara": 2.31,
-     "Draw": 3.09
-    }
-   },
-   "proba_pinnacle_pct": {
-    "CS Maritimo": 26.6,
-    "Santa Clara": 42.0,
-    "Draw": 31.4
-   }
-  },
-  {
-   "competition": "Ligue 1",
-   "match": "Marseille vs Toulouse",
-   "debut_utc": "2026-11-01T19:45:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Marseille": 1.9,
-     "Toulouse": 3.85,
-     "Draw": 4.17
-    },
-    "Betclic": {
-     "Marseille": 1.83,
-     "Toulouse": 3.45,
-     "Draw": 4.1
-    },
-    "Unibet": {
-     "Marseille": 1.8,
-     "Toulouse": 3.5,
-     "Draw": 4.1
-    },
-    "Winamax": {
-     "Marseille": 1.8,
-     "Toulouse": 3.45,
-     "Draw": 3.95
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Marseille": 51.3,
-    "Toulouse": 25.3,
-    "Draw": 23.4
-   }
-  },
-  {
    "competition": "Serie A",
-   "match": "Juventus vs Napoli",
-   "debut_utc": "2026-11-01T19:45:00Z",
+   "match": "Sassuolo vs Fiorentina",
+   "debut_utc": "2026-11-02T17:30:00Z",
    "cotes": {
     "Pinnacle": {
-     "Juventus": 2.24,
-     "Napoli": 3.56,
-     "Draw": 3.37
+     "Fiorentina": 2.43,
+     "Sassuolo": 2.89,
+     "Draw": 3.73
     },
     "Unibet": {
-     "Juventus": 2.05,
-     "Napoli": 3.3,
-     "Draw": 3.1
+     "Fiorentina": 2.2,
+     "Sassuolo": 2.6,
+     "Draw": 3.3
     },
     "Winamax": {
-     "Juventus": 2.1,
-     "Napoli": 3.2,
-     "Draw": 3.15
-    },
-    "Betclic": {
-     "Juventus": 2.12,
-     "Napoli": 3.32,
-     "Draw": 3.15
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Juventus": 43.6,
-    "Napoli": 27.4,
-    "Draw": 29.0
-   }
-  },
-  {
-   "competition": "LaLiga",
-   "match": "Athletic Bilbao vs Real Sociedad",
-   "debut_utc": "2026-11-01T20:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Athletic Bilbao": 1.99,
-     "Real Sociedad": 3.94,
-     "Draw": 3.71
-    },
-    "Unibet": {
-     "Athletic Bilbao": 1.88,
-     "Real Sociedad": 3.4,
-     "Draw": 3.5
-    },
-    "Betclic": {
-     "Athletic Bilbao": 1.94,
-     "Real Sociedad": 3.47,
-     "Draw": 3.5
-    },
-    "Winamax": {
-     "Athletic Bilbao": 1.94,
-     "Real Sociedad": 3.3,
-     "Draw": 3.45
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Athletic Bilbao": 49.0,
-    "Real Sociedad": 24.7,
-    "Draw": 26.3
-   }
-  },
-  {
-   "competition": "Liga Portugal",
-   "match": "Braga vs Famalicão",
-   "debut_utc": "2026-11-01T20:30:00Z",
-   "cotes": {
-    "Unibet": {
-     "Braga": 1.55,
-     "Famalicão": 4.65,
-     "Draw": 3.45
-    },
-    "Winamax": {
-     "Braga": 1.54,
-     "Famalicão": 4.5,
-     "Draw": 3.6
-    },
-    "Betclic": {
-     "Braga": 1.6,
-     "Famalicão": 5.0,
+     "Fiorentina": 2.2,
+     "Sassuolo": 2.65,
      "Draw": 3.55
     },
-    "Pinnacle": {
-     "Braga": 1.67,
-     "Famalicão": 5.69,
-     "Draw": 3.85
+    "Betclic": {
+     "Fiorentina": 2.28,
+     "Sassuolo": 2.72,
+     "Draw": 3.53
     }
    },
    "proba_pinnacle_pct": {
-    "Braga": 57.9,
-    "Famalicão": 17.0,
-    "Draw": 25.1
+    "Fiorentina": 40.1,
+    "Sassuolo": 33.7,
+    "Draw": 26.1
    }
   },
   {
    "competition": "ATP Paris Masters",
-   "match": "Alejandro Davidovich Fokina vs Moise Kouame",
-   "debut_utc": "2026-11-02T10:00:00Z",
+   "match": "Denis Shapovalov vs Karen Khachanov",
+   "debut_utc": "2026-11-02T18:00:00Z",
    "cotes": {
-    "Pinnacle": {
-     "Alejandro Davidovich Fokina": 1.33,
-     "Moise Kouame": 3.51
-    },
     "Unibet": {
-     "Alejandro Davidovich Fokina": 1.26,
-     "Moise Kouame": 3.1
+     "Denis Shapovalov": 2.1,
+     "Karen Khachanov": 1.5
     },
     "Betclic": {
-     "Alejandro Davidovich Fokina": 1.27,
-     "Moise Kouame": 3.2
+     "Denis Shapovalov": 2.33,
+     "Karen Khachanov": 1.56
+    },
+    "Pinnacle": {
+     "Denis Shapovalov": 2.45,
+     "Karen Khachanov": 1.61
+    },
+    "Winamax": {
+     "Denis Shapovalov": 2.3,
+     "Karen Khachanov": 1.54
     }
    },
    "proba_pinnacle_pct": {
-    "Alejandro Davidovich Fokina": 72.5,
-    "Moise Kouame": 27.5
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Alejandro Tabilo vs Rafael Jodar",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Alejandro Tabilo": 3.65,
-     "Rafael Jodar": 1.18
-    },
-    "Betclic": {
-     "Alejandro Tabilo": 3.8,
-     "Rafael Jodar": 1.19
-    },
-    "Pinnacle": {
-     "Alejandro Tabilo": 4.39,
-     "Rafael Jodar": 1.25
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Alejandro Tabilo": 22.2,
-    "Rafael Jodar": 77.8
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Daniel Merida Aguilar vs Alexander Blockx",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Alexander Blockx": 1.62,
-     "Daniel Merida Aguilar": 2.43
-    },
-    "Unibet": {
-     "Alexander Blockx": 1.54,
-     "Daniel Merida Aguilar": 2.1
-    },
-    "Betclic": {
-     "Alexander Blockx": 1.56,
-     "Daniel Merida Aguilar": 2.17
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Alexander Blockx": 60.0,
-    "Daniel Merida Aguilar": 40.0
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Andrey Rublev vs Tomas Martin Etcheverry",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Andrey Rublev": 1.33,
-     "Tomas Martin Etcheverry": 2.7
-    },
-    "Betclic": {
-     "Andrey Rublev": 1.35,
-     "Tomas Martin Etcheverry": 2.8
-    },
-    "Pinnacle": {
-     "Andrey Rublev": 1.4,
-     "Tomas Martin Etcheverry": 3.16
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Andrey Rublev": 69.3,
-    "Tomas Martin Etcheverry": 30.7
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Quentin Halys vs Arthur Fery",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Arthur Fery": 2.0,
-     "Quentin Halys": 1.6
-    },
-    "Betclic": {
-     "Arthur Fery": 2.06,
-     "Quentin Halys": 1.63
-    },
-    "Pinnacle": {
-     "Arthur Fery": 2.32,
-     "Quentin Halys": 1.67
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Arthur Fery": 41.9,
-    "Quentin Halys": 58.1
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Arthur Rinderknech vs Francisco Cerundolo",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Arthur Rinderknech": 2.65,
-     "Francisco Cerundolo": 1.35
-    },
-    "Betclic": {
-     "Arthur Rinderknech": 2.7,
-     "Francisco Cerundolo": 1.37
-    },
-    "Pinnacle": {
-     "Arthur Rinderknech": 3.03,
-     "Francisco Cerundolo": 1.43
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Arthur Rinderknech": 32.1,
-    "Francisco Cerundolo": 67.9
+    "Denis Shapovalov": 39.7,
+    "Karen Khachanov": 60.3
    }
   },
   {
    "competition": "ATP Paris Masters",
    "match": "Ugo Humbert vs Botic van de Zandschulp",
-   "debut_utc": "2026-11-02T10:00:00Z",
+   "debut_utc": "2026-11-02T19:30:00Z",
    "cotes": {
     "Unibet": {
-     "Botic van de Zandschulp": 2.15,
+     "Botic van de Zandschulp": 2.35,
      "Ugo Humbert": 1.52
     },
     "Betclic": {
-     "Botic van de Zandschulp": 2.22,
+     "Botic van de Zandschulp": 2.3,
      "Ugo Humbert": 1.54
     },
     "Pinnacle": {
-     "Botic van de Zandschulp": 2.45,
-     "Ugo Humbert": 1.61
+     "Botic van de Zandschulp": 2.53,
+     "Ugo Humbert": 1.58
+    },
+    "Winamax": {
+     "Botic van de Zandschulp": 2.35,
+     "Ugo Humbert": 1.52
     }
    },
    "proba_pinnacle_pct": {
-    "Botic van de Zandschulp": 39.7,
-    "Ugo Humbert": 60.3
+    "Botic van de Zandschulp": 38.4,
+    "Ugo Humbert": 61.6
+   }
+  },
+  {
+   "competition": "Ligue 1",
+   "match": "Lorient vs Brest",
+   "debut_utc": "2026-11-02T19:45:00Z",
+   "cotes": {
+    "Unibet": {
+     "Brest": 3.0,
+     "Lorient": 2.3,
+     "Draw": 3.1
+    },
+    "Winamax": {
+     "Brest": 2.95,
+     "Lorient": 2.3,
+     "Draw": 3.1
+    },
+    "Betclic": {
+     "Brest": 2.93,
+     "Lorient": 2.33,
+     "Draw": 3.12
+    },
+    "Pinnacle": {
+     "Brest": 3.17,
+     "Lorient": 2.48,
+     "Draw": 3.26
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Brest": 30.8,
+    "Lorient": 39.3,
+    "Draw": 29.9
+   }
+  },
+  {
+   "competition": "Serie A",
+   "match": "Atalanta BC vs Parma",
+   "debut_utc": "2026-11-02T19:45:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Atalanta BC": 1.53,
+     "Parma": 6.06,
+     "Draw": 4.81
+    },
+    "Unibet": {
+     "Atalanta BC": 1.43,
+     "Parma": 5.0,
+     "Draw": 4.1
+    },
+    "Winamax": {
+     "Atalanta BC": 1.44,
+     "Parma": 5.3,
+     "Draw": 4.4
+    },
+    "Betclic": {
+     "Atalanta BC": 1.44,
+     "Parma": 5.6,
+     "Draw": 4.55
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Atalanta BC": 63.7,
+    "Parma": 16.1,
+    "Draw": 20.3
+   }
+  },
+  {
+   "competition": "Premier League",
+   "match": "Newcastle United vs Everton",
+   "debut_utc": "2026-11-02T20:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Everton": 3.2,
+     "Newcastle United": 2.0,
+     "Draw": 3.5
+    },
+    "Betclic": {
+     "Everton": 3.18,
+     "Newcastle United": 2.05,
+     "Draw": 3.45
+    },
+    "Winamax": {
+     "Everton": 3.05,
+     "Newcastle United": 2.0,
+     "Draw": 3.45
+    },
+    "Pinnacle": {
+     "Everton": 3.42,
+     "Newcastle United": 2.18,
+     "Draw": 3.65
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Everton": 28.5,
+    "Newcastle United": 44.7,
+    "Draw": 26.7
+   }
+  },
+  {
+   "competition": "LaLiga",
+   "match": "Deportivo La Coruña vs CA Osasuna",
+   "debut_utc": "2026-11-02T20:00:00Z",
+   "cotes": {
+    "Betclic": {
+     "CA Osasuna": 3.48,
+     "Deportivo La Coruña": 2.05,
+     "Draw": 3.18
+    },
+    "Unibet": {
+     "CA Osasuna": 3.4,
+     "Deportivo La Coruña": 1.98,
+     "Draw": 2.95
+    },
+    "Winamax": {
+     "CA Osasuna": 3.45,
+     "Deportivo La Coruña": 2.0,
+     "Draw": 3.1
+    },
+    "Pinnacle": {
+     "CA Osasuna": 3.9,
+     "Deportivo La Coruña": 2.15,
+     "Draw": 3.29
+    }
+   },
+   "proba_pinnacle_pct": {
+    "CA Osasuna": 25.0,
+    "Deportivo La Coruña": 45.4,
+    "Draw": 29.6
+   }
+  },
+  {
+   "competition": "Liga Portugal",
+   "match": "Benfica vs Alverca",
+   "debut_utc": "2026-11-02T20:15:00Z",
+   "cotes": {
+    "Unibet": {
+     "Alverca": 14.0,
+     "Benfica": 1.07,
+     "Draw": 7.6
+    },
+    "Betclic": {
+     "Alverca": 15.5,
+     "Benfica": 1.09,
+     "Draw": 8.5
+    },
+    "Winamax": {
+     "Alverca": 13.5,
+     "Benfica": 1.08,
+     "Draw": 8.5
+    },
+    "Pinnacle": {
+     "Alverca": 19.28,
+     "Benfica": 1.13,
+     "Draw": 10.05
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Alverca": 5.0,
+    "Benfica": 85.4,
+    "Draw": 9.6
+   }
+  },
+  {
+   "competition": "Liga Portugal",
+   "match": "Gil Vicente vs Vitória SC",
+   "debut_utc": "2026-11-02T20:15:00Z",
+   "cotes": {
+    "Unibet": {
+     "Gil Vicente": 2.65,
+     "Vitória SC": 2.35,
+     "Draw": 2.95
+    },
+    "Betclic": {
+     "Gil Vicente": 2.8,
+     "Vitória SC": 2.38,
+     "Draw": 3.1
+    },
+    "Winamax": {
+     "Gil Vicente": 2.65,
+     "Vitória SC": 2.4,
+     "Draw": 2.95
+    },
+    "Pinnacle": {
+     "Gil Vicente": 2.94,
+     "Vitória SC": 2.67,
+     "Draw": 3.17
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Gil Vicente": 33.0,
+    "Vitória SC": 36.4,
+    "Draw": 30.6
+   }
+  },
+  {
+   "competition": "ATP Paris Masters",
+   "match": "Alejandro Davidovich Fokina vs Moise Kouame",
+   "debut_utc": "2026-11-03T09:00:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Alejandro Davidovich Fokina": 1.37,
+     "Moise Kouame": 3.37
+    },
+    "Unibet": {
+     "Alejandro Davidovich Fokina": 1.27,
+     "Moise Kouame": 2.8
+    },
+    "Betclic": {
+     "Alejandro Davidovich Fokina": 1.33,
+     "Moise Kouame": 3.15
+    },
+    "Winamax": {
+     "Alejandro Davidovich Fokina": 1.32,
+     "Moise Kouame": 3.15
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Alejandro Davidovich Fokina": 71.1,
+    "Moise Kouame": 28.9
+   }
+  },
+  {
+   "competition": "ATP Paris Masters",
+   "match": "Novak Djokovic vs Valentin Vacherot",
+   "debut_utc": "2026-11-03T09:00:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Novak Djokovic": 1.47,
+     "Valentin Vacherot": 2.87
+    },
+    "Unibet": {
+     "Novak Djokovic": 1.36,
+     "Valentin Vacherot": 2.45
+    },
+    "Betclic": {
+     "Novak Djokovic": 1.42,
+     "Valentin Vacherot": 2.75
+    },
+    "Winamax": {
+     "Novak Djokovic": 1.42,
+     "Valentin Vacherot": 2.7
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Novak Djokovic": 66.1,
+    "Valentin Vacherot": 33.9
+   }
+  },
+  {
+   "competition": "ATP Paris Masters",
+   "match": "Alex Michelsen vs Jiri Lehecka",
+   "debut_utc": "2026-11-03T10:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Alex Michelsen": 2.0,
+     "Jiri Lehecka": 1.56
+    },
+    "Betclic": {
+     "Alex Michelsen": 2.16,
+     "Jiri Lehecka": 1.65
+    },
+    "Winamax": {
+     "Alex Michelsen": 2.15,
+     "Jiri Lehecka": 1.64
+    },
+    "Pinnacle": {
+     "Alex Michelsen": 2.3,
+     "Jiri Lehecka": 1.68
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Alex Michelsen": 42.2,
+    "Jiri Lehecka": 57.8
+   }
+  },
+  {
+   "competition": "ATP Paris Masters",
+   "match": "Andrey Rublev vs Tomas Martin Etcheverry",
+   "debut_utc": "2026-11-03T10:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Andrey Rublev": 1.32,
+     "Tomas Martin Etcheverry": 2.6
+    },
+    "Betclic": {
+     "Andrey Rublev": 1.38,
+     "Tomas Martin Etcheverry": 2.9
+    },
+    "Pinnacle": {
+     "Andrey Rublev": 1.4,
+     "Tomas Martin Etcheverry": 3.2
+    },
+    "Winamax": {
+     "Andrey Rublev": 1.37,
+     "Tomas Martin Etcheverry": 2.9
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Andrey Rublev": 69.6,
+    "Tomas Martin Etcheverry": 30.4
+   }
+  },
+  {
+   "competition": "ATP Paris Masters",
+   "match": "Quentin Halys vs Arthur Fery",
+   "debut_utc": "2026-11-03T10:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Arthur Fery": 2.05,
+     "Quentin Halys": 1.54
+    },
+    "Betclic": {
+     "Arthur Fery": 2.27,
+     "Quentin Halys": 1.59
+    },
+    "Pinnacle": {
+     "Arthur Fery": 2.33,
+     "Quentin Halys": 1.67
+    },
+    "Winamax": {
+     "Arthur Fery": 2.25,
+     "Quentin Halys": 1.58
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Arthur Fery": 41.8,
+    "Quentin Halys": 58.2
+   }
+  },
+  {
+   "competition": "ATP Paris Masters",
+   "match": "Jan-Lennard Struff vs Arthur Gea",
+   "debut_utc": "2026-11-03T10:00:00Z",
+   "cotes": {
+    "Betclic": {
+     "Arthur Gea": 1.81,
+     "Jan-Lennard Struff": 1.93
+    },
+    "Unibet": {
+     "Arthur Gea": 1.7,
+     "Jan-Lennard Struff": 1.81
+    },
+    "Winamax": {
+     "Arthur Gea": 1.76,
+     "Jan-Lennard Struff": 1.86
+    },
+    "Pinnacle": {
+     "Arthur Gea": 1.86,
+     "Jan-Lennard Struff": 2.02
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Arthur Gea": 52.1,
+    "Jan-Lennard Struff": 47.9
+   }
+  },
+  {
+   "competition": "ATP Paris Masters",
+   "match": "Arthur Rinderknech vs Francisco Cerundolo",
+   "debut_utc": "2026-11-03T10:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Arthur Rinderknech": 2.45,
+     "Francisco Cerundolo": 1.36
+    },
+    "Betclic": {
+     "Arthur Rinderknech": 2.7,
+     "Francisco Cerundolo": 1.43
+    },
+    "Pinnacle": {
+     "Arthur Rinderknech": 2.76,
+     "Francisco Cerundolo": 1.5
+    },
+    "Winamax": {
+     "Arthur Rinderknech": 2.7,
+     "Francisco Cerundolo": 1.42
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Arthur Rinderknech": 35.2,
+    "Francisco Cerundolo": 64.8
+   }
+  },
+  {
+   "competition": "ATP Paris Masters",
+   "match": "Benjamin Bonzi vs Taylor Fritz",
+   "debut_utc": "2026-11-03T10:00:00Z",
+   "cotes": {
+    "Betclic": {
+     "Benjamin Bonzi": 3.95,
+     "Taylor Fritz": 1.22
+    },
+    "Unibet": {
+     "Benjamin Bonzi": 3.4,
+     "Taylor Fritz": 1.18
+    },
+    "Winamax": {
+     "Benjamin Bonzi": 3.7,
+     "Taylor Fritz": 1.2
+    },
+    "Pinnacle": {
+     "Benjamin Bonzi": 4.31,
+     "Taylor Fritz": 1.25
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Benjamin Bonzi": 22.5,
+    "Taylor Fritz": 77.5
    }
   },
   {
    "competition": "ATP Paris Masters",
    "match": "Brandon Nakashima vs Matteo Berrettini",
-   "debut_utc": "2026-11-02T10:00:00Z",
+   "debut_utc": "2026-11-03T10:00:00Z",
    "cotes": {
     "Unibet": {
-     "Brandon Nakashima": 1.56,
-     "Matteo Berrettini": 2.1
+     "Brandon Nakashima": 1.54,
+     "Matteo Berrettini": 2.05
     },
     "Betclic": {
-     "Brandon Nakashima": 1.58,
-     "Matteo Berrettini": 2.14
+     "Brandon Nakashima": 1.62,
+     "Matteo Berrettini": 2.21
     },
     "Pinnacle": {
      "Brandon Nakashima": 1.67,
      "Matteo Berrettini": 2.32
+    },
+    "Winamax": {
+     "Brandon Nakashima": 1.6,
+     "Matteo Berrettini": 2.2
     }
    },
    "proba_pinnacle_pct": {
@@ -1101,66 +640,24 @@
   },
   {
    "competition": "ATP Paris Masters",
-   "match": "Cameron Norrie vs Matteo Arnaldi",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Cameron Norrie": 1.38,
-     "Matteo Arnaldi": 2.5
-    },
-    "Betclic": {
-     "Cameron Norrie": 1.4,
-     "Matteo Arnaldi": 2.6
-    },
-    "Pinnacle": {
-     "Cameron Norrie": 1.44,
-     "Matteo Arnaldi": 3.0
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Cameron Norrie": 67.6,
-    "Matteo Arnaldi": 32.4
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Denis Shapovalov vs Karen Khachanov",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Denis Shapovalov": 2.25,
-     "Karen Khachanov": 1.49
-    },
-    "Betclic": {
-     "Denis Shapovalov": 2.28,
-     "Karen Khachanov": 1.51
-    },
-    "Pinnacle": {
-     "Denis Shapovalov": 2.43,
-     "Karen Khachanov": 1.62
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Denis Shapovalov": 40.0,
-    "Karen Khachanov": 60.0
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
    "match": "Tommy Paul vs Holger Rune",
-   "debut_utc": "2026-11-02T10:00:00Z",
+   "debut_utc": "2026-11-03T10:00:00Z",
    "cotes": {
     "Unibet": {
-     "Holger Rune": 2.5,
-     "Tommy Paul": 1.4
+     "Holger Rune": 2.45,
+     "Tommy Paul": 1.37
     },
     "Betclic": {
-     "Holger Rune": 2.55,
-     "Tommy Paul": 1.41
+     "Holger Rune": 2.7,
+     "Tommy Paul": 1.43
     },
     "Pinnacle": {
      "Holger Rune": 2.77,
      "Tommy Paul": 1.5
+    },
+    "Winamax": {
+     "Holger Rune": 2.65,
+     "Tommy Paul": 1.43
     }
    },
    "proba_pinnacle_pct": {
@@ -1170,364 +667,317 @@
   },
   {
    "competition": "ATP Paris Masters",
-   "match": "Lorenzo Musetti vs Hubert Hurkacz",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Hubert Hurkacz": 1.88,
-     "Lorenzo Musetti": 2.01
-    },
-    "Betclic": {
-     "Hubert Hurkacz": 1.79,
-     "Lorenzo Musetti": 1.85
-    },
-    "Unibet": {
-     "Hubert Hurkacz": 1.76,
-     "Lorenzo Musetti": 1.82
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Hubert Hurkacz": 51.7,
-    "Lorenzo Musetti": 48.3
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Ignacio Buse vs Zizou Bergs",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Ignacio Buse": 2.85,
-     "Zizou Bergs": 1.3
-    },
-    "Betclic": {
-     "Ignacio Buse": 2.9,
-     "Zizou Bergs": 1.32
-    },
-    "Pinnacle": {
-     "Ignacio Buse": 3.3,
-     "Zizou Bergs": 1.38
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Ignacio Buse": 29.5,
-    "Zizou Bergs": 70.5
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
    "match": "Stefanos Tsitsipas vs Learner Tien",
-   "debut_utc": "2026-11-02T10:00:00Z",
+   "debut_utc": "2026-11-03T10:00:00Z",
    "cotes": {
     "Unibet": {
-     "Learner Tien": 1.63,
-     "Stefanos Tsitsipas": 1.98
+     "Learner Tien": 1.6,
+     "Stefanos Tsitsipas": 1.94
     },
     "Betclic": {
-     "Learner Tien": 1.65,
-     "Stefanos Tsitsipas": 2.02
+     "Learner Tien": 1.7,
+     "Stefanos Tsitsipas": 2.08
     },
     "Pinnacle": {
-     "Learner Tien": 1.77,
-     "Stefanos Tsitsipas": 2.16
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Learner Tien": 55.0,
-    "Stefanos Tsitsipas": 45.0
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Luca Van Assche vs Mariano Navone",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Unibet": {
-     "Luca Van Assche": 1.5,
-     "Mariano Navone": 2.2
-    },
-    "Betclic": {
-     "Luca Van Assche": 1.52,
-     "Mariano Navone": 2.26
-    },
-    "Pinnacle": {
-     "Luca Van Assche": 1.59,
-     "Mariano Navone": 2.51
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Luca Van Assche": 61.2,
-    "Mariano Navone": 38.8
-   }
-  },
-  {
-   "competition": "ATP Paris Masters",
-   "match": "Novak Djokovic vs Valentin Vacherot",
-   "debut_utc": "2026-11-02T10:00:00Z",
-   "cotes": {
-    "Pinnacle": {
-     "Novak Djokovic": 1.42,
-     "Valentin Vacherot": 3.02
-    },
-    "Unibet": {
-     "Novak Djokovic": 1.37,
-     "Valentin Vacherot": 2.55
-    },
-    "Betclic": {
-     "Novak Djokovic": 1.39,
-     "Valentin Vacherot": 2.65
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Novak Djokovic": 68.0,
-    "Valentin Vacherot": 32.0
-   }
-  },
-  {
-   "competition": "Super Lig",
-   "match": "Genclerbirligi SK vs Alanyaspor",
-   "debut_utc": "2026-11-02T17:00:00Z",
-   "cotes": {
-    "Betclic": {
-     "Alanyaspor": 2.37,
-     "Genclerbirligi SK": 2.6,
-     "Draw": 3.1
+     "Learner Tien": 1.76,
+     "Stefanos Tsitsipas": 2.17
     },
     "Winamax": {
-     "Alanyaspor": 2.35,
-     "Genclerbirligi SK": 2.45,
-     "Draw": 3.05
-    },
-    "Unibet": {
-     "Alanyaspor": 2.25,
-     "Genclerbirligi SK": 2.6,
-     "Draw": 3.1
-    },
-    "Pinnacle": {
-     "Alanyaspor": 2.7,
-     "Genclerbirligi SK": 2.68,
-     "Draw": 3.31
+     "Learner Tien": 1.68,
+     "Stefanos Tsitsipas": 2.05
     }
    },
    "proba_pinnacle_pct": {
-    "Alanyaspor": 35.4,
-    "Genclerbirligi SK": 35.7,
-    "Draw": 28.9
+    "Learner Tien": 55.2,
+    "Stefanos Tsitsipas": 44.8
    }
   },
   {
-   "competition": "Serie A",
-   "match": "Sassuolo vs Fiorentina",
-   "debut_utc": "2026-11-02T17:30:00Z",
+   "competition": "Ligue des Champions",
+   "match": "Galatasaray vs VfB Stuttgart",
+   "debut_utc": "2026-11-03T17:45:00Z",
    "cotes": {
-    "Pinnacle": {
-     "Fiorentina": 2.36,
-     "Sassuolo": 2.9,
-     "Draw": 3.82
+    "Winamax": {
+     "Galatasaray": 2.0,
+     "VfB Stuttgart": 2.7,
+     "Draw": 4.0
+    },
+    "Betclic": {
+     "Galatasaray": 2.13,
+     "VfB Stuttgart": 2.72,
+     "Draw": 3.8
     },
     "Unibet": {
-     "Fiorentina": 2.15,
-     "Sassuolo": 2.7,
-     "Draw": 3.5
+     "Galatasaray": 1.98,
+     "VfB Stuttgart": 2.75,
+     "Draw": 3.7
+    },
+    "Pinnacle": {
+     "Galatasaray": 2.2,
+     "VfB Stuttgart": 2.97,
+     "Draw": 4.15
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Galatasaray": 44.0,
+    "VfB Stuttgart": 32.6,
+    "Draw": 23.3
+   }
+  },
+  {
+   "competition": "Ligue des Champions",
+   "match": "Shakhtar Donetsk vs Sporting Lisbon",
+   "debut_utc": "2026-11-03T17:45:00Z",
+   "cotes": {
+    "Unibet": {
+     "Shakhtar Donetsk": 3.3,
+     "Sporting Lisbon": 1.85,
+     "Draw": 3.4
     },
     "Winamax": {
-     "Fiorentina": 2.25,
-     "Sassuolo": 2.55,
+     "Shakhtar Donetsk": 3.35,
+     "Sporting Lisbon": 1.86,
+     "Draw": 3.75
+    },
+    "Betclic": {
+     "Shakhtar Donetsk": 3.4,
+     "Sporting Lisbon": 1.91,
+     "Draw": 3.55
+    },
+    "Pinnacle": {
+     "Shakhtar Donetsk": 3.62,
+     "Sporting Lisbon": 2.01,
+     "Draw": 3.89
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Shakhtar Donetsk": 26.8,
+    "Sporting Lisbon": 48.3,
+    "Draw": 24.9
+   }
+  },
+  {
+   "competition": "Ligue des Champions",
+   "match": "Manchester United vs AS Roma",
+   "debut_utc": "2026-11-03T20:00:00Z",
+   "cotes": {
+    "Winamax": {
+     "AS Roma": 2.55,
+     "Manchester United": 2.2,
+     "Draw": 3.85
+    },
+    "Betclic": {
+     "AS Roma": 2.57,
+     "Manchester United": 2.22,
+     "Draw": 3.85
+    },
+    "Unibet": {
+     "AS Roma": 2.45,
+     "Manchester United": 2.15,
+     "Draw": 3.7
+    },
+    "Pinnacle": {
+     "AS Roma": 2.77,
+     "Manchester United": 2.35,
+     "Draw": 4.09
+    }
+   },
+   "proba_pinnacle_pct": {
+    "AS Roma": 35.0,
+    "Manchester United": 41.3,
+    "Draw": 23.7
+   }
+  },
+  {
+   "competition": "Ligue des Champions",
+   "match": "Barcelona vs Aston Villa",
+   "debut_utc": "2026-11-03T20:00:00Z",
+   "cotes": {
+    "Winamax": {
+     "Aston Villa": 8.0,
+     "Barcelona": 1.2,
+     "Draw": 6.75
+    },
+    "Betclic": {
+     "Aston Villa": 8.0,
+     "Barcelona": 1.2,
+     "Draw": 7.0
+    },
+    "Unibet": {
+     "Aston Villa": 8.0,
+     "Barcelona": 1.16,
+     "Draw": 6.5
+    },
+    "Pinnacle": {
+     "Aston Villa": 9.51,
+     "Barcelona": 1.25,
+     "Draw": 7.28
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Aston Villa": 10.1,
+    "Barcelona": 76.7,
+    "Draw": 13.2
+   }
+  },
+  {
+   "competition": "Ligue des Champions",
+   "match": "Atlético Madrid vs Bayern Munich",
+   "debut_utc": "2026-11-03T20:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Atlético Madrid": 2.5,
+     "Bayern Munich": 2.15,
+     "Draw": 3.7
+    },
+    "Winamax": {
+     "Atlético Madrid": 2.55,
+     "Bayern Munich": 2.25,
      "Draw": 3.7
     },
     "Betclic": {
-     "Fiorentina": 2.25,
-     "Sassuolo": 2.68,
-     "Draw": 3.53
+     "Atlético Madrid": 2.6,
+     "Bayern Munich": 2.18,
+     "Draw": 3.85
+    },
+    "Pinnacle": {
+     "Atlético Madrid": 2.75,
+     "Bayern Munich": 2.41,
+     "Draw": 3.97
     }
    },
    "proba_pinnacle_pct": {
-    "Fiorentina": 41.1,
-    "Sassuolo": 33.5,
-    "Draw": 25.4
+    "Atlético Madrid": 35.3,
+    "Bayern Munich": 40.3,
+    "Draw": 24.4
    }
   },
   {
-   "competition": "Ligue 1",
-   "match": "Lorient vs Brest",
-   "debut_utc": "2026-11-02T19:45:00Z",
+   "competition": "Ligue des Champions",
+   "match": "Bodø/Glimt vs Lille",
+   "debut_utc": "2026-11-03T20:00:00Z",
    "cotes": {
-    "Unibet": {
-     "Brest": 2.85,
-     "Lorient": 2.25,
-     "Draw": 3.2
-    },
     "Winamax": {
-     "Brest": 2.75,
-     "Lorient": 2.35,
-     "Draw": 3.15
+     "Bodø/Glimt": 1.72,
+     "Lille": 3.6,
+     "Draw": 4.0
     },
     "Betclic": {
-     "Brest": 2.83,
-     "Lorient": 2.37,
-     "Draw": 3.1
+     "Bodø/Glimt": 1.8,
+     "Lille": 3.55,
+     "Draw": 3.8
+    },
+    "Unibet": {
+     "Bodø/Glimt": 1.72,
+     "Lille": 3.5,
+     "Draw": 3.7
     },
     "Pinnacle": {
-     "Brest": 3.02,
-     "Lorient": 2.52,
-     "Draw": 3.31
+     "Bodø/Glimt": 1.83,
+     "Lille": 4.02,
+     "Draw": 4.21
     }
    },
    "proba_pinnacle_pct": {
-    "Brest": 32.1,
-    "Lorient": 38.5,
-    "Draw": 29.3
+    "Bodø/Glimt": 52.9,
+    "Lille": 24.1,
+    "Draw": 23.0
    }
   },
   {
-   "competition": "Serie A",
-   "match": "Atalanta BC vs Parma",
-   "debut_utc": "2026-11-02T19:45:00Z",
+   "competition": "Ligue des Champions",
+   "match": "Feyenoord vs Inter Milan",
+   "debut_utc": "2026-11-03T20:00:00Z",
    "cotes": {
-    "Pinnacle": {
-     "Atalanta BC": 1.52,
-     "Parma": 6.21,
-     "Draw": 4.65
-    },
-    "Unibet": {
-     "Atalanta BC": 1.42,
-     "Parma": 5.4,
-     "Draw": 4.3
-    },
     "Winamax": {
-     "Atalanta BC": 1.47,
-     "Parma": 5.1,
-     "Draw": 4.4
+     "Feyenoord": 3.5,
+     "Inter Milan": 1.74,
+     "Draw": 4.1
     },
     "Betclic": {
-     "Atalanta BC": 1.45,
-     "Parma": 5.4,
-     "Draw": 4.4
+     "Feyenoord": 3.83,
+     "Inter Milan": 1.71,
+     "Draw": 3.95
+    },
+    "Unibet": {
+     "Feyenoord": 3.8,
+     "Inter Milan": 1.7,
+     "Draw": 3.5
+    },
+    "Pinnacle": {
+     "Feyenoord": 3.89,
+     "Inter Milan": 1.84,
+     "Draw": 4.31
     }
    },
    "proba_pinnacle_pct": {
-    "Atalanta BC": 63.6,
-    "Parma": 15.6,
-    "Draw": 20.8
+    "Feyenoord": 24.9,
+    "Inter Milan": 52.6,
+    "Draw": 22.5
    }
   },
   {
-   "competition": "Premier League",
-   "match": "Newcastle United vs Everton",
-   "debut_utc": "2026-11-02T20:00:00Z",
+   "competition": "Ligue des Champions",
+   "match": "LASK vs ŠK Slovan Bratislava",
+   "debut_utc": "2026-11-03T20:00:00Z",
    "cotes": {
-    "Unibet": {
-     "Everton": 2.7,
-     "Newcastle United": 2.2,
-     "Draw": 3.3
+    "Winamax": {
+     "LASK": 1.36,
+     "ŠK Slovan Bratislava": 5.6,
+     "Draw": 5.2
     },
     "Betclic": {
-     "Everton": 2.8,
-     "Newcastle United": 2.22,
-     "Draw": 3.45
+     "LASK": 1.39,
+     "ŠK Slovan Bratislava": 5.75,
+     "Draw": 4.9
     },
-    "Winamax": {
-     "Everton": 2.7,
-     "Newcastle United": 2.25,
-     "Draw": 3.45
+    "Unibet": {
+     "LASK": 1.33,
+     "ŠK Slovan Bratislava": 5.3,
+     "Draw": 5.0
     },
     "Pinnacle": {
-     "Everton": 2.94,
-     "Newcastle United": 2.42,
-     "Draw": 3.56
+     "LASK": 1.42,
+     "ŠK Slovan Bratislava": 6.74,
+     "Draw": 5.43
     }
    },
    "proba_pinnacle_pct": {
-    "Everton": 32.9,
-    "Newcastle United": 40.0,
-    "Draw": 27.2
+    "LASK": 67.9,
+    "ŠK Slovan Bratislava": 14.3,
+    "Draw": 17.8
    }
   },
   {
-   "competition": "LaLiga",
-   "match": "Deportivo La Coruña vs CA Osasuna",
-   "debut_utc": "2026-11-02T20:00:00Z",
+   "competition": "Ligue des Champions",
+   "match": "Villarreal vs Paris Saint Germain",
+   "debut_utc": "2026-11-03T20:00:00Z",
    "cotes": {
+    "Winamax": {
+     "Paris Saint Germain": 1.49,
+     "Villarreal": 4.6,
+     "Draw": 4.6
+    },
     "Betclic": {
-     "CA Osasuna": 3.4,
-     "Deportivo La Coruña": 2.05,
-     "Draw": 3.15
+     "Paris Saint Germain": 1.52,
+     "Villarreal": 4.5,
+     "Draw": 4.55
     },
     "Unibet": {
-     "CA Osasuna": 3.4,
-     "Deportivo La Coruña": 2.0,
-     "Draw": 3.1
-    },
-    "Winamax": {
-     "CA Osasuna": 3.15,
-     "Deportivo La Coruña": 2.0,
-     "Draw": 3.0
+     "Paris Saint Germain": 1.48,
+     "Villarreal": 4.7,
+     "Draw": 4.6
     },
     "Pinnacle": {
-     "CA Osasuna": 3.67,
-     "Deportivo La Coruña": 2.18,
-     "Draw": 3.3
+     "Paris Saint Germain": 1.6,
+     "Villarreal": 5.0,
+     "Draw": 4.81
     }
    },
    "proba_pinnacle_pct": {
-    "CA Osasuna": 26.3,
-    "Deportivo La Coruña": 44.4,
-    "Draw": 29.3
-   }
-  },
-  {
-   "competition": "Liga Portugal",
-   "match": "Benfica vs Alverca",
-   "debut_utc": "2026-11-02T20:15:00Z",
-   "cotes": {
-    "Unibet": {
-     "Alverca": 11.0,
-     "Benfica": 1.1,
-     "Draw": 6.4
-    },
-    "Betclic": {
-     "Alverca": 12.25,
-     "Benfica": 1.14,
-     "Draw": 7.0
-    },
-    "Winamax": {
-     "Alverca": 9.5,
-     "Benfica": 1.12,
-     "Draw": 6.5
-    }
-   },
-   "proba_pinnacle_pct": null
-  },
-  {
-   "competition": "Liga Portugal",
-   "match": "Gil Vicente vs Vitória SC",
-   "debut_utc": "2026-11-02T20:15:00Z",
-   "cotes": {
-    "Unibet": {
-     "Gil Vicente": 2.7,
-     "Vitória SC": 2.2,
-     "Draw": 3.0
-    },
-    "Betclic": {
-     "Gil Vicente": 2.78,
-     "Vitória SC": 2.4,
-     "Draw": 3.1
-    },
-    "Winamax": {
-     "Gil Vicente": 2.6,
-     "Vitória SC": 2.3,
-     "Draw": 3.0
-    },
-    "Pinnacle": {
-     "Gil Vicente": 2.89,
-     "Vitória SC": 2.69,
-     "Draw": 3.05
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Gil Vicente": 33.1,
-    "Vitória SC": 35.6,
-    "Draw": 31.4
+    "Paris Saint Germain": 60.5,
+    "Villarreal": 19.4,
+    "Draw": 20.1
    }
   }
  ]

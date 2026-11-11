@@ -1,7 +1,72 @@
 {
- "mis_a_jour_utc": "2026-11-10T13:45:26Z",
+ "mis_a_jour_utc": "2026-11-11T12:56:32Z",
  "horizon_heures": 36,
- "requetes_restantes_ce_mois": "384",
+ "requetes_restantes_ce_mois": "372",
  "erreurs": [],
- "matchs": []
+ "matchs": [
+  {
+   "competition": "WTA Finals",
+   "match": "Elina Svitolina vs Karolina Muchova",
+   "debut_utc": "2026-11-11T20:00:00Z",
+   "cotes": {
+    "Winamax": {
+     "Elina Svitolina": 2.15,
+     "Karolina Muchova": 1.6
+    },
+    "Unibet": {
+     "Elina Svitolina": 2.05,
+     "Karolina Muchova": 1.53
+    }
+   },
+   "proba_pinnacle_pct": null
+  },
+  {
+   "competition": "WTA Finals",
+   "match": "Aryna Sabalenka vs Mirra Andreeva",
+   "debut_utc": "2026-11-11T21:10:00Z",
+   "cotes": {
+    "Winamax": {
+     "Aryna Sabalenka": 1.78,
+     "Mirra Andreeva": 1.82
+    },
+    "Unibet": {
+     "Aryna Sabalenka": 1.71,
+     "Mirra Andreeva": 1.83
+    }
+   },
+   "proba_pinnacle_pct": null
+  },
+  {
+   "competition": "WTA Finals",
+   "match": "Marta Kostyuk vs Coco Gauff",
+   "debut_utc": "2026-11-12T20:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Coco Gauff": 1.22,
+     "Marta Kostyuk": 3.1
+    },
+    "Winamax": {
+     "Coco Gauff": 1.25,
+     "Marta Kostyuk": 3.25
+    }
+   },
+   "proba_pinnacle_pct": null
+  },
+  {
+   "competition": "WTA Finals",
+   "match": "Jessica Pegula vs Linda Noskova",
+   "debut_utc": "2026-11-12T21:30:00Z",
+   "cotes": {
+    "Unibet": {
+     "Jessica Pegula": 1.84,
+     "Linda Noskova": 1.68
+    },
+    "Winamax": {
+     "Jessica Pegula": 1.86,
+     "Linda Noskova": 1.76
+    }
+   },
+   "proba_pinnacle_pct": null
+  }
+ ]
 }

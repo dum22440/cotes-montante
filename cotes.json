@@ -1,53 +1,21 @@
 {
- "mis_a_jour_utc": "2026-11-11T12:56:32Z",
+ "mis_a_jour_utc": "2026-11-12T13:58:49Z",
  "horizon_heures": 36,
- "requetes_restantes_ce_mois": "372",
+ "requetes_restantes_ce_mois": "360",
  "erreurs": [],
  "matchs": [
-  {
-   "competition": "WTA Finals",
-   "match": "Elina Svitolina vs Karolina Muchova",
-   "debut_utc": "2026-11-11T20:00:00Z",
-   "cotes": {
-    "Winamax": {
-     "Elina Svitolina": 2.15,
-     "Karolina Muchova": 1.6
-    },
-    "Unibet": {
-     "Elina Svitolina": 2.05,
-     "Karolina Muchova": 1.53
-    }
-   },
-   "proba_pinnacle_pct": null
-  },
-  {
-   "competition": "WTA Finals",
-   "match": "Aryna Sabalenka vs Mirra Andreeva",
-   "debut_utc": "2026-11-11T21:10:00Z",
-   "cotes": {
-    "Winamax": {
-     "Aryna Sabalenka": 1.78,
-     "Mirra Andreeva": 1.82
-    },
-    "Unibet": {
-     "Aryna Sabalenka": 1.71,
-     "Mirra Andreeva": 1.83
-    }
-   },
-   "proba_pinnacle_pct": null
-  },
   {
    "competition": "WTA Finals",
    "match": "Marta Kostyuk vs Coco Gauff",
    "debut_utc": "2026-11-12T20:00:00Z",
    "cotes": {
     "Unibet": {
-     "Coco Gauff": 1.22,
-     "Marta Kostyuk": 3.1
+     "Coco Gauff": 1.24,
+     "Marta Kostyuk": 3.0
     },
     "Winamax": {
      "Coco Gauff": 1.25,
-     "Marta Kostyuk": 3.25
+     "Marta Kostyuk": 3.4
     }
    },
    "proba_pinnacle_pct": null
@@ -58,12 +26,44 @@
    "debut_utc": "2026-11-12T21:30:00Z",
    "cotes": {
     "Unibet": {
-     "Jessica Pegula": 1.84,
-     "Linda Noskova": 1.68
+     "Jessica Pegula": 1.95,
+     "Linda Noskova": 1.73
     },
     "Winamax": {
-     "Jessica Pegula": 1.86,
-     "Linda Noskova": 1.76
+     "Jessica Pegula": 1.95,
+     "Linda Noskova": 1.75
+    }
+   },
+   "proba_pinnacle_pct": null
+  },
+  {
+   "competition": "WTA Finals",
+   "match": "Mirra Andreeva vs Karolina Muchova",
+   "debut_utc": "2026-11-13T20:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Karolina Muchova": 2.7,
+     "Mirra Andreeva": 1.3
+    },
+    "Winamax": {
+     "Karolina Muchova": 3.05,
+     "Mirra Andreeva": 1.3
+    }
+   },
+   "proba_pinnacle_pct": null
+  },
+  {
+   "competition": "WTA Finals",
+   "match": "Aryna Sabalenka vs Elina Svitolina",
+   "debut_utc": "2026-11-13T21:30:00Z",
+   "cotes": {
+    "Unibet": {
+     "Aryna Sabalenka": 1.41,
+     "Elina Svitolina": 2.3
+    },
+    "Winamax": {
+     "Aryna Sabalenka": 1.45,
+     "Elina Svitolina": 2.5
     }
    },
    "proba_pinnacle_pct": null

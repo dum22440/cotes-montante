@@ -1,40 +1,116 @@
 {
- "mis_a_jour_utc": "2026-11-13T13:25:47Z",
+ "mis_a_jour_utc": "2026-11-14T12:29:41Z",
  "horizon_heures": 36,
- "requetes_restantes_ce_mois": "347",
+ "requetes_restantes_ce_mois": "334",
  "erreurs": [],
  "matchs": [
   {
    "competition": "WTA Finals",
-   "match": "Mirra Andreeva vs Karolina Muchova",
-   "debut_utc": "2026-11-13T20:00:00Z",
+   "match": "Jessica Pegula vs Mirra Andreeva",
+   "debut_utc": "2026-11-14T20:00:00Z",
    "cotes": {
     "Unibet": {
-     "Karolina Muchova": 3.0,
-     "Mirra Andreeva": 1.24
+     "Jessica Pegula": 3.05,
+     "Mirra Andreeva": 1.29
     },
     "Winamax": {
-     "Karolina Muchova": 3.3,
-     "Mirra Andreeva": 1.28
+     "Jessica Pegula": 2.95,
+     "Mirra Andreeva": 1.31
+    },
+    "Pinnacle": {
+     "Jessica Pegula": 3.34,
+     "Mirra Andreeva": 1.37
+    },
+    "Betclic": {
+     "Jessica Pegula": 2.95,
+     "Mirra Andreeva": 1.31
     }
    },
-   "proba_pinnacle_pct": null
+   "proba_pinnacle_pct": {
+    "Jessica Pegula": 29.1,
+    "Mirra Andreeva": 70.9
+   }
   },
   {
    "competition": "WTA Finals",
-   "match": "Aryna Sabalenka vs Elina Svitolina",
-   "debut_utc": "2026-11-13T21:30:00Z",
+   "match": "Linda Noskova vs Elina Svitolina",
+   "debut_utc": "2026-11-14T21:30:00Z",
    "cotes": {
     "Unibet": {
-     "Aryna Sabalenka": 1.42,
-     "Elina Svitolina": 2.6
+     "Elina Svitolina": 2.3,
+     "Linda Noskova": 1.51
     },
     "Winamax": {
-     "Aryna Sabalenka": 1.43,
-     "Elina Svitolina": 2.6
+     "Elina Svitolina": 2.2,
+     "Linda Noskova": 1.52
+    },
+    "Pinnacle": {
+     "Elina Svitolina": 2.47,
+     "Linda Noskova": 1.6
+    },
+    "Betclic": {
+     "Elina Svitolina": 2.23,
+     "Linda Noskova": 1.54
     }
    },
-   "proba_pinnacle_pct": null
+   "proba_pinnacle_pct": {
+    "Elina Svitolina": 39.3,
+    "Linda Noskova": 60.7
+   }
+  },
+  {
+   "competition": "ATP Finals",
+   "match": "Alexander Zverev vs Rafael Jodar",
+   "debut_utc": "2026-11-15T13:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Alexander Zverev": 1.33,
+     "Rafael Jodar": 2.6
+    },
+    "Pinnacle": {
+     "Alexander Zverev": 1.44,
+     "Rafael Jodar": 3.01
+    },
+    "Winamax": {
+     "Alexander Zverev": 1.37,
+     "Rafael Jodar": 2.75
+    },
+    "Betclic": {
+     "Alexander Zverev": 1.36,
+     "Rafael Jodar": 2.8
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Alexander Zverev": 67.6,
+    "Rafael Jodar": 32.4
+   }
+  },
+  {
+   "competition": "ATP Finals",
+   "match": "Ben Shelton vs Arthur Fils",
+   "debut_utc": "2026-11-15T19:30:00Z",
+   "cotes": {
+    "Unibet": {
+     "Arthur Fils": 2.25,
+     "Ben Shelton": 1.44
+    },
+    "Pinnacle": {
+     "Arthur Fils": 2.52,
+     "Ben Shelton": 1.6
+    },
+    "Winamax": {
+     "Arthur Fils": 2.3,
+     "Ben Shelton": 1.5
+    },
+    "Betclic": {
+     "Arthur Fils": 2.37,
+     "Ben Shelton": 1.5
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Arthur Fils": 38.8,
+    "Ben Shelton": 61.2
+   }
   }
  ]
 }

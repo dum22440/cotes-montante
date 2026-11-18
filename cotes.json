@@ -1,88 +1,88 @@
 {
- "mis_a_jour_utc": "2026-11-17T14:52:55Z",
+ "mis_a_jour_utc": "2026-11-18T14:32:42Z",
  "horizon_heures": 36,
- "requetes_restantes_ce_mois": "297",
+ "requetes_restantes_ce_mois": "285",
  "erreurs": [],
  "matchs": [
-  {
-   "competition": "ATP Finals",
-   "match": "Alexander Zverev vs Ben Shelton",
-   "debut_utc": "2026-11-17T19:30:00Z",
-   "cotes": {
-    "Betclic": {
-     "Alexander Zverev": 1.42,
-     "Ben Shelton": 2.6
-    },
-    "Winamax": {
-     "Alexander Zverev": 1.4,
-     "Ben Shelton": 2.55
-    },
-    "Unibet": {
-     "Alexander Zverev": 1.38,
-     "Ben Shelton": 2.75
-    },
-    "Pinnacle": {
-     "Alexander Zverev": 1.51,
-     "Ben Shelton": 2.78
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Alexander Zverev": 64.8,
-    "Ben Shelton": 35.2
-   }
-  },
-  {
-   "competition": "ATP Finals",
-   "match": "Carlos Alcaraz vs Daniil Medvedev",
-   "debut_utc": "2026-11-18T13:00:00Z",
-   "cotes": {
-    "Winamax": {
-     "Carlos Alcaraz": 1.22,
-     "Daniil Medvedev": 3.6
-    },
-    "Unibet": {
-     "Carlos Alcaraz": 1.2,
-     "Daniil Medvedev": 3.95
-    },
-    "Betclic": {
-     "Carlos Alcaraz": 1.22,
-     "Daniil Medvedev": 3.75
-    },
-    "Pinnacle": {
-     "Carlos Alcaraz": 1.26,
-     "Daniil Medvedev": 4.22
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Carlos Alcaraz": 77.0,
-    "Daniil Medvedev": 23.0
-   }
-  },
   {
    "competition": "ATP Finals",
    "match": "Flavio Cobolli vs Frances Tiafoe",
    "debut_utc": "2026-11-18T19:30:00Z",
    "cotes": {
     "Unibet": {
-     "Flavio Cobolli": 2.05,
-     "Frances Tiafoe": 1.66
+     "Flavio Cobolli": 2.1,
+     "Frances Tiafoe": 1.64
     },
     "Winamax": {
      "Flavio Cobolli": 2.0,
-     "Frances Tiafoe": 1.68
+     "Frances Tiafoe": 1.66
     },
     "Betclic": {
-     "Flavio Cobolli": 2.02,
-     "Frances Tiafoe": 1.68
+     "Flavio Cobolli": 2.08,
+     "Frances Tiafoe": 1.65
     },
     "Pinnacle": {
-     "Flavio Cobolli": 2.16,
-     "Frances Tiafoe": 1.77
+     "Flavio Cobolli": 2.21,
+     "Frances Tiafoe": 1.75
     }
    },
    "proba_pinnacle_pct": {
-    "Flavio Cobolli": 45.0,
-    "Frances Tiafoe": 55.0
+    "Flavio Cobolli": 44.2,
+    "Frances Tiafoe": 55.8
+   }
+  },
+  {
+   "competition": "ATP Finals",
+   "match": "Ben Shelton vs Rafael Jodar",
+   "debut_utc": "2026-11-19T13:00:00Z",
+   "cotes": {
+    "Winamax": {
+     "Ben Shelton": 1.43,
+     "Rafael Jodar": 2.55
+    },
+    "Unibet": {
+     "Ben Shelton": 1.4,
+     "Rafael Jodar": 2.65
+    },
+    "Betclic": {
+     "Ben Shelton": 1.42,
+     "Rafael Jodar": 2.58
+    },
+    "Pinnacle": {
+     "Ben Shelton": 1.52,
+     "Rafael Jodar": 2.69
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Ben Shelton": 63.9,
+    "Rafael Jodar": 36.1
+   }
+  },
+  {
+   "competition": "ATP Finals",
+   "match": "Alexander Zverev vs Arthur Fils",
+   "debut_utc": "2026-11-19T19:30:00Z",
+   "cotes": {
+    "Winamax": {
+     "Alexander Zverev": 1.33,
+     "Arthur Fils": 2.9
+    },
+    "Unibet": {
+     "Alexander Zverev": 1.31,
+     "Arthur Fils": 3.1
+    },
+    "Betclic": {
+     "Alexander Zverev": 1.33,
+     "Arthur Fils": 2.95
+    },
+    "Pinnacle": {
+     "Alexander Zverev": 1.43,
+     "Arthur Fils": 3.05
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Alexander Zverev": 68.1,
+    "Arthur Fils": 31.9
    }
   }
  ]

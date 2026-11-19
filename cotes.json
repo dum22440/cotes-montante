@@ -1,88 +1,174 @@
 {
- "mis_a_jour_utc": "2026-11-18T14:32:42Z",
+ "mis_a_jour_utc": "2026-11-19T14:40:48Z",
  "horizon_heures": 36,
- "requetes_restantes_ce_mois": "285",
+ "requetes_restantes_ce_mois": "273",
  "erreurs": [],
  "matchs": [
-  {
-   "competition": "ATP Finals",
-   "match": "Flavio Cobolli vs Frances Tiafoe",
-   "debut_utc": "2026-11-18T19:30:00Z",
-   "cotes": {
-    "Unibet": {
-     "Flavio Cobolli": 2.1,
-     "Frances Tiafoe": 1.64
-    },
-    "Winamax": {
-     "Flavio Cobolli": 2.0,
-     "Frances Tiafoe": 1.66
-    },
-    "Betclic": {
-     "Flavio Cobolli": 2.08,
-     "Frances Tiafoe": 1.65
-    },
-    "Pinnacle": {
-     "Flavio Cobolli": 2.21,
-     "Frances Tiafoe": 1.75
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Flavio Cobolli": 44.2,
-    "Frances Tiafoe": 55.8
-   }
-  },
-  {
-   "competition": "ATP Finals",
-   "match": "Ben Shelton vs Rafael Jodar",
-   "debut_utc": "2026-11-19T13:00:00Z",
-   "cotes": {
-    "Winamax": {
-     "Ben Shelton": 1.43,
-     "Rafael Jodar": 2.55
-    },
-    "Unibet": {
-     "Ben Shelton": 1.4,
-     "Rafael Jodar": 2.65
-    },
-    "Betclic": {
-     "Ben Shelton": 1.42,
-     "Rafael Jodar": 2.58
-    },
-    "Pinnacle": {
-     "Ben Shelton": 1.52,
-     "Rafael Jodar": 2.69
-    }
-   },
-   "proba_pinnacle_pct": {
-    "Ben Shelton": 63.9,
-    "Rafael Jodar": 36.1
-   }
-  },
   {
    "competition": "ATP Finals",
    "match": "Alexander Zverev vs Arthur Fils",
    "debut_utc": "2026-11-19T19:30:00Z",
    "cotes": {
     "Winamax": {
-     "Alexander Zverev": 1.33,
-     "Arthur Fils": 2.9
-    },
-    "Unibet": {
-     "Alexander Zverev": 1.31,
+     "Alexander Zverev": 1.3,
      "Arthur Fils": 3.1
     },
+    "Unibet": {
+     "Alexander Zverev": 1.29,
+     "Arthur Fils": 3.2
+    },
     "Betclic": {
-     "Alexander Zverev": 1.33,
-     "Arthur Fils": 2.95
+     "Alexander Zverev": 1.32,
+     "Arthur Fils": 3.0
     },
     "Pinnacle": {
-     "Alexander Zverev": 1.43,
-     "Arthur Fils": 3.05
+     "Alexander Zverev": 1.4,
+     "Arthur Fils": 3.2
     }
    },
    "proba_pinnacle_pct": {
-    "Alexander Zverev": 68.1,
-    "Arthur Fils": 31.9
+    "Alexander Zverev": 69.6,
+    "Arthur Fils": 30.4
+   }
+  },
+  {
+   "competition": "ATP Finals",
+   "match": "Carlos Alcaraz vs Flavio Cobolli",
+   "debut_utc": "2026-11-20T13:00:00Z",
+   "cotes": {
+    "Unibet": {
+     "Carlos Alcaraz": 1.11,
+     "Flavio Cobolli": 5.4
+    },
+    "Betclic": {
+     "Carlos Alcaraz": 1.13,
+     "Flavio Cobolli": 4.8
+    },
+    "Winamax": {
+     "Carlos Alcaraz": 1.12,
+     "Flavio Cobolli": 4.5
+    },
+    "Pinnacle": {
+     "Carlos Alcaraz": 1.2,
+     "Flavio Cobolli": 5.1
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Carlos Alcaraz": 81.0,
+    "Flavio Cobolli": 19.0
+   }
+  },
+  {
+   "competition": "Bundesliga",
+   "match": "Bayern Munich vs 1. FC Köln",
+   "debut_utc": "2026-11-20T19:30:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "1. FC Köln": 24.5,
+     "Bayern Munich": 1.07,
+     "Draw": 15.75
+    },
+    "Winamax": {
+     "1. FC Köln": 16.0,
+     "Bayern Munich": 1.04,
+     "Draw": 12.0
+    },
+    "Unibet": {
+     "1. FC Köln": 16.0,
+     "Bayern Munich": 1.03,
+     "Draw": 8.4
+    },
+    "Betclic": {
+     "1. FC Köln": 18.75,
+     "Bayern Munich": 1.05,
+     "Draw": 9.5
+    }
+   },
+   "proba_pinnacle_pct": {
+    "1. FC Köln": 3.9,
+    "Bayern Munich": 90.0,
+    "Draw": 6.1
+   }
+  },
+  {
+   "competition": "ATP Finals",
+   "match": "Daniil Medvedev vs Frances Tiafoe",
+   "debut_utc": "2026-11-20T19:30:00Z",
+   "cotes": {
+    "Betclic": {
+     "Daniil Medvedev": 1.34,
+     "Frances Tiafoe": 2.9
+    },
+    "Unibet": {
+     "Daniil Medvedev": 1.3,
+     "Frances Tiafoe": 3.1
+    },
+    "Winamax": {
+     "Daniil Medvedev": 1.3,
+     "Frances Tiafoe": 3.0
+    },
+    "Pinnacle": {
+     "Daniil Medvedev": 1.43,
+     "Frances Tiafoe": 3.01
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Daniil Medvedev": 67.8,
+    "Frances Tiafoe": 32.2
+   }
+  },
+  {
+   "competition": "Ligue 1",
+   "match": "Troyes vs Le Havre",
+   "debut_utc": "2026-11-20T19:45:00Z",
+   "cotes": {
+    "Unibet": {
+     "Le Havre": 3.1,
+     "Troyes": 2.0,
+     "Draw": 3.2
+    },
+    "Winamax": {
+     "Le Havre": 3.1,
+     "Troyes": 2.05,
+     "Draw": 3.25
+    },
+    "Pinnacle": {
+     "Le Havre": 3.42,
+     "Troyes": 2.22,
+     "Draw": 3.47
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Le Havre": 28.4,
+    "Troyes": 43.7,
+    "Draw": 28.0
+   }
+  },
+  {
+   "competition": "LaLiga",
+   "match": "Athletic Bilbao vs Espanyol",
+   "debut_utc": "2026-11-20T20:00:00Z",
+   "cotes": {
+    "Pinnacle": {
+     "Athletic Bilbao": 1.51,
+     "Espanyol": 6.73,
+     "Draw": 4.5
+    },
+    "Winamax": {
+     "Athletic Bilbao": 1.4,
+     "Espanyol": 5.6,
+     "Draw": 4.2
+    },
+    "Unibet": {
+     "Athletic Bilbao": 1.36,
+     "Espanyol": 6.1,
+     "Draw": 4.2
+    }
+   },
+   "proba_pinnacle_pct": {
+    "Athletic Bilbao": 64.1,
+    "Espanyol": 14.4,
+    "Draw": 21.5
    }
   }
  ]
